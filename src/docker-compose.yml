@@ -1,0 +1,9 @@
+services:
+  react-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: react_production_container
+    ports:
+      - "1234:80"
+    restart: always
