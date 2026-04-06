@@ -1,9 +1,9 @@
 services:
   react-app:
     build:
-      context: src
-      dockerfile: src/Dockerfile
-    container_name: react_production_container
+      context: .
+      dockerfile: Dockerfile
+    container_name: trivia_app
     ports:
       - "1234:80"
     restart: always
