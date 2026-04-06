@@ -746,7 +746,7 @@
  },
  {
    "Quiz": 8,
-   "Question": "What famous document was King John forced to agree to 1215?",
+   "Question": "What famous document was King John forced to agree to in 1215?",
    "Answer": "Magna Carta"
  },
  {
@@ -1158,11 +1158,6 @@
    "Quiz": 12,
    "Question": "He was born with the name Steven Demetre Georgio, and now goes by Yusuf Islam. What other name was he known by?",
    "Answer": "Cat Stevens"
- },
- {
-   "Quiz": 12,
-   "Question": "And what was it called before that?",
-   "Answer": "Byzantium"
  },
  {
    "Quiz": 12,
@@ -2968,5 +2963,4465 @@
    "Quiz": 30,
    "Question": "If I sail on the Neva river past the Hermitage Museum, what city am I in?",
    "Answer": "St. Petersburg"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What will a pescetarian eat that a vegetarian will not?",
+   "Answer": "Fish"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What country is ruled by the Taliban?",
+   "Answer": "Afghanistan"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What silent film star wore the same style mustache as Adolf Hitler?",
+   "Answer": "Charlie Chaplin"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What major Japanese city is an anagram of Tokyo?",
+   "Answer": "Kyoto"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What country has slums known as favelas?",
+   "Answer": "Brazil"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What type of animal appeared on the coat of arms of King Richard I?",
+   "Answer": "Lion"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What modern hairstyle takes its name from a Native American tribe?",
+   "Answer": "Mohawk"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What \"religion\" was founded by a science fiction writer?",
+   "Answer": "Scientology"
+ },
+ {
+   "Quiz": 31,
+   "Question": "Where would a Viking warrior hope to go if he died in battle?",
+   "Answer": "Valhalla"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What fictional character was a photographer for the Daily Bugle?",
+   "Answer": "Spider-Man"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What is the term for three consecutive strikes in bowling?",
+   "Answer": "Turkey"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What country did Golda Meir serve as Prime Minister from 1969–1974?",
+   "Answer": "Israel"
+ },
+ {
+   "Quiz": 31,
+   "Question": "In what city would you find Kowloon Peninsula and Victoria Harbour?",
+   "Answer": "Hong Kong"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What American product did Sir Walter Raleigh help popularize in England where it quickly became an irresistible sensation?",
+   "Answer": "Tobacco"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What taxonomic rank comes above phylum?",
+   "Answer": "Kingdom"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What large tree has all five vowels in the seven letters of its name?",
+   "Answer": "Sequoia"
+ },
+ {
+   "Quiz": 31,
+   "Question": "Of all the countries on Earth, which one has a capital city with the highest elevation?",
+   "Answer": "Bolivia"
+ },
+ {
+   "Quiz": 31,
+   "Question": "Which Bible character killed up to one quarter of the world's population?",
+   "Answer": "Cain"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What is the most common phobia in the United States, according to the NIMH?",
+   "Answer": "Fear of Public Speaking"
+ },
+ {
+   "Quiz": 31,
+   "Question": "What director refers to his films as \"joints\"?",
+   "Answer": "Spike Lee"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What did the Grinch try to steal?",
+   "Answer": "Christmas"
+ },
+ {
+   "Quiz": 32,
+   "Question": "Who was Little Red Riding Hood's adversary?",
+   "Answer": "The Big Bad Wolf"
+ },
+ {
+   "Quiz": 32,
+   "Question": "Besides chocolate, what is the main flavor of Nutella?",
+   "Answer": "Hazelnut"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What weapon does Luke Skywalker wield?",
+   "Answer": "Lightsaber"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What ancient trade route connected China to the Mediterranean?",
+   "Answer": "Silk Road"
+ },
+ {
+   "Quiz": 32,
+   "Question": "In Norse mythology, who is the father of Thor?",
+   "Answer": "Odin"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What Italian constructor is the most successful Formula One team of all time?",
+   "Answer": "Ferrari"
+ },
+ {
+   "Quiz": 32,
+   "Question": "In which country would you find a billabong?",
+   "Answer": "Australia"
+ },
+ {
+   "Quiz": 32,
+   "Question": "In what city would you find the world's largest mosque, capable of holding 4 million people?",
+   "Answer": "Mecca"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What was New York City known as between 1624–1664?",
+   "Answer": "New Amsterdam"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What obsolete psychiatric procedure involved scraping away connections to the prefrontal cortex?",
+   "Answer": "Lobotomy"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What holy river flows through Varanasi, India?",
+   "Answer": "Ganges"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What is either a medical clinic in Minnesota, a county in Ireland, or something you might put on your sandwich?",
+   "Answer": "Mayo"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What body of water got its name from Ferdinand Magellan, who named it \"Peaceful Sea\" in his language?",
+   "Answer": "Pacific Ocean"
+ },
+ {
+   "Quiz": 32,
+   "Question": "In what modern day country's territory was most of the Sumerian empire located?",
+   "Answer": "Iraq"
+ },
+ {
+   "Quiz": 32,
+   "Question": "Which Olympic sport is a miniature, indoor variation of another Olympic sport?",
+   "Answer": "Table tennis"
+ },
+ {
+   "Quiz": 32,
+   "Question": "Whose face launched a thousand ships?",
+   "Answer": "Helen's"
+ },
+ {
+   "Quiz": 32,
+   "Question": "What does the P stand for in OPEC?",
+   "Answer": "Petroleum"
+ },
+ {
+   "Quiz": 32,
+   "Question": "On what river does the city formerly known as Stalingrad lie?",
+   "Answer": "Volga"
+ },
+ {
+   "Quiz": 32,
+   "Question": "Whose ex-husbands have included Bruce Willis and Ashton Kutcher?",
+   "Answer": "Demi Moore"
+ },
+ {
+   "Quiz": 33,
+   "Question": "If I have an eye-patch, a peg-leg, and a parrot on my shoulder, what am I?",
+   "Answer": "a Pirate"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What body part do zombies crave?",
+   "Answer": "Brains"
+ },
+ {
+   "Quiz": 33,
+   "Question": "How many problems does Jay-Z have?",
+   "Answer": "99"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What city is famously associated with gondolas?",
+   "Answer": "Venice"
+ },
+ {
+   "Quiz": 33,
+   "Question": "In what fictional kingdom did \"The Lion, the Witch, and the Wardrobe\" take place?",
+   "Answer": "Narnia"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What are criminal judges in the United Kingdom required to wear on their heads?",
+   "Answer": "a Wig"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What type of animal killed the Crocodile Hunter?",
+   "Answer": "Stingray"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What chemical element is charcoal mostly made of?",
+   "Answer": "Carbon"
+ },
+ {
+   "Quiz": 33,
+   "Question": "Who said \"my, what big teeth you have\"?",
+   "Answer": "Little Red Riding Hood"
+ },
+ {
+   "Quiz": 33,
+   "Question": "Among the countries in Africa, which one has the largest economy?",
+   "Answer": "Nigeria"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What does a horticulturist study?",
+   "Answer": "Plants"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What is the common translation of the phrase \"Carpe Diem\"?",
+   "Answer": "Seize the day"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What novel does Mr. Darcy famously appear in?",
+   "Answer": "Pride and Prejudice"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What body of water connects the Caribbean Sea to the Pacific Ocean?",
+   "Answer": "The Panama Canal"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What country did the Soviet Union invade in 1979?",
+   "Answer": "Afghanistan"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What is the meaning of the Portuguese word São?",
+   "Answer": "Saint"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What common first name is also a word that means \"honest; blunt; candid\"?",
+   "Answer": "Frank"
+ },
+ {
+   "Quiz": 33,
+   "Question": "In the spy world, what is a \"mechanic\"?",
+   "Answer": "an Assassin"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What language does the word \"yogurt\" come from?",
+   "Answer": "Turkish"
+ },
+ {
+   "Quiz": 33,
+   "Question": "What country was formerly known as Formosa?",
+   "Answer": "Taiwan"
+ },
+ {
+   "Quiz": 34,
+   "Question": "In which U.S. state would you find Disney World?",
+   "Answer": "Florida"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What is the most popular reading system for the blind?",
+   "Answer": "Braille"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What country produces the greatest number of feature films each year?",
+   "Answer": "India"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What is the busiest airport in England?",
+   "Answer": "London Heathrow"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Who spent 27 years in prison before becoming President of his country in 1994?",
+   "Answer": "Nelson Mandela"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What is the last letter of the Greek alphabet?",
+   "Answer": "Omega"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Name one of the two countries in which the region of Patagonia lies.",
+   "Answer": "Argentina / Chile"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What was the Soviet version of an astronaut?",
+   "Answer": "Cosmonaut"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What type of dinosaurs were the main antagonists in \"Jurassic Park\"?",
+   "Answer": "Velociraptor"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What element is also known as quicksilver?",
+   "Answer": "Mercury"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Which Shakespeare play starts with the letter O?",
+   "Answer": "Othello"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Who is the female protagonist of the Peter Pan books?",
+   "Answer": "Wendy Darling"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What is the job title of a person who manages a museum collection?",
+   "Answer": "Curator"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Who does the Swiss Guard guard?",
+   "Answer": "The Pope"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What major Mexican city is just across the border from San Diego?",
+   "Answer": "Tijuana"
+ },
+ {
+   "Quiz": 34,
+   "Question": "In which country would you find a TGV train?",
+   "Answer": "France"
+ },
+ {
+   "Quiz": 34,
+   "Question": "At what university do Rhodes Scholars study?",
+   "Answer": "Oxford"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What word, starting with A, refers to something you ingest to make you feel randy?",
+   "Answer": "Aphrodisiac"
+ },
+ {
+   "Quiz": 34,
+   "Question": "Who led the Palestinian Liberation Organization from 1969–2004?",
+   "Answer": "Yasser Arafat"
+ },
+ {
+   "Quiz": 34,
+   "Question": "What did Thomas Chippendale design?",
+   "Answer": "Furniture"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What city is famous for its leaning tower?",
+   "Answer": "Pisa"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What country had prisons known as gulags?",
+   "Answer": "The Soviet Union"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What activity, invented in California around 1950, was originally called \"street surfing\"?",
+   "Answer": "Skateboarding"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What is the opposite of an acid?",
+   "Answer": "a Base"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What type of animal is the mascot of the World Wildlife Fund?",
+   "Answer": "Giant panda"
+ },
+ {
+   "Quiz": 35,
+   "Question": "How many syllables does a haiku have?",
+   "Answer": "17"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What was the name of Louis XIV's residence?",
+   "Answer": "Versailles"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What country uses the Baht as its currency?",
+   "Answer": "Thailand"
+ },
+ {
+   "Quiz": 35,
+   "Question": "In the song \"Amazing Grace\" what four words come after \"Amazing Grace\"?",
+   "Answer": "How sweet the sound"
+ },
+ {
+   "Quiz": 35,
+   "Question": "Which Shakespearean play is it bad luck to mention inside a theater?",
+   "Answer": "Macbeth"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What two letters end 18 of the 20 most common last names in Croatia?",
+   "Answer": "ić"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What is the American name for the board game known in England as \"draughts\"?",
+   "Answer": "Checkers"
+ },
+ {
+   "Quiz": 35,
+   "Question": "Who is the only English king to abdicate voluntarily?",
+   "Answer": "Edward VIII"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What disease is associated with hydrophobia?",
+   "Answer": "Rabies"
+ },
+ {
+   "Quiz": 35,
+   "Question": "Who is the author that created James Bond?",
+   "Answer": "Ian Fleming"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What disease was quinine used to treat?",
+   "Answer": "Malaria"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What toxic chemical element is contained inside fluorescent bulbs?",
+   "Answer": "Mercury"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What country was responsible for the bombing of Pan Am Flight 103 over Lockerbie, Scotland?",
+   "Answer": "Libya"
+ },
+ {
+   "Quiz": 35,
+   "Question": "What plant is linen made from?",
+   "Answer": "Flax"
+ },
+ {
+   "Quiz": 35,
+   "Question": "Who was Wooster's valet?",
+   "Answer": "Jeeves"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What type of animal has Bengal and Siberian subspecies?",
+   "Answer": "Tiger"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What does the U in SCUBA stand for?",
+   "Answer": "Underwater"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What comes two days before Easter Sunday?",
+   "Answer": "Good Friday"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What video game series features an archaeologist named Lara Croft?",
+   "Answer": "Tomb Raider"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What is the Spanish word for \"nothing\"?",
+   "Answer": "Nada"
+ },
+ {
+   "Quiz": 36,
+   "Question": "Among countries that existed at the beginning of WWII, which one suffered the most deaths as a percentage of its population?",
+   "Answer": "Poland"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What layer of the earth comes between the core and the crust?",
+   "Answer": "Mantle"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What sea are you in if you sail east through the Pillars of Hercules?",
+   "Answer": "Mediterranean Sea"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What type of creature is Chewbacca?",
+   "Answer": "Wookiee"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What animal gets its name from the Greek words for \"eight\" and \"foot\"?",
+   "Answer": "Octopus"
+ },
+ {
+   "Quiz": 36,
+   "Question": "In the Middle Ages, most candles were made from tallow (beef fat). What were premium, high quality candles made from?",
+   "Answer": "Beeswax"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What country does the Tagalog language come from?",
+   "Answer": "Philippines"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What dirty profession was featured in \"Mary Poppins\" and \"Oliver Twist\"?",
+   "Answer": "Chimney Sweep"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What 1993 movie is about the Jamaican bobsled team?",
+   "Answer": "Cool Runnings"
+ },
+ {
+   "Quiz": 36,
+   "Question": "Mega is the opposite of micro. What is the opposite of nano?",
+   "Answer": "Giga"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What part of a race car driver's body is typically noticeably larger than a normal person's?",
+   "Answer": "Neck"
+ },
+ {
+   "Quiz": 36,
+   "Question": "There are 21 C's and 5 V's. What does the V stand for?",
+   "Answer": "Vowel"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What Chinese religion's name can be interpreted as \"The Way\"?",
+   "Answer": "Taoism"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What caped villain was famously portrayed by Bela Lugosi?",
+   "Answer": "Count Dracula"
+ },
+ {
+   "Quiz": 36,
+   "Question": "What word, meaning \"dolphin\", was the title given to the heir to the French throne?",
+   "Answer": "Dauphin"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What is the last name of brothers Fidel and Raúl?",
+   "Answer": "Castro"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What book is about a girl from \"District 12\"?",
+   "Answer": "The Hunger Games"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What is the last name of the tennis player whose first name is a planet?",
+   "Answer": "Williams"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What country is the island of Rhodes a part of?",
+   "Answer": "Greece"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What type of grass can grow to over 40 meters in height, and can grow more than 1 meter in a single day?",
+   "Answer": "Bamboo"
+ },
+ {
+   "Quiz": 37,
+   "Question": "Which element of the Periodic Table is known in Latin as Argentum?",
+   "Answer": "Silver"
+ },
+ {
+   "Quiz": 37,
+   "Question": "Who plays at Old Trafford?",
+   "Answer": "Manchester United"
+ },
+ {
+   "Quiz": 37,
+   "Question": "In \"Back to the Future Part II\", what future year did Marty McFly travel to?",
+   "Answer": "2015"
+ },
+ {
+   "Quiz": 37,
+   "Question": "It's near Mount Kilimanjaro, it's the second tallest mountain in Africa, and it's named for a country. What is it?",
+   "Answer": "Mount Kenya"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What can have a forecastle, a head, and a hold?",
+   "Answer": "a Ship"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What weapon is used for jousting?",
+   "Answer": "Lance"
+ },
+ {
+   "Quiz": 37,
+   "Question": "In what country would you find the cities of Zaragoza and Valladolid?",
+   "Answer": "Spain"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What bay lies between India and Indochina?",
+   "Answer": "Bay of Bengal"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What vitamin precursor causes carrots to be orange?",
+   "Answer": "Beta-Carotene"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What unit is used to measure the height of a horse?",
+   "Answer": "Hands"
+ },
+ {
+   "Quiz": 37,
+   "Question": "Fill in the blank: Diwali is the Indian festival of ____.",
+   "Answer": "Lights"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What mostly-dead language was used to write the Hindu Vedas?",
+   "Answer": "Sanskrit"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What series of children's books was created by A. A. Milne?",
+   "Answer": "Winnie-the-Pooh"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What record label recorded The Supremes and The Jackson 5?",
+   "Answer": "Motown"
+ },
+ {
+   "Quiz": 37,
+   "Question": "What is the Islamic equivalent to the Red Cross?",
+   "Answer": "Red Crescent"
+ },
+ {
+   "Quiz": 38,
+   "Question": "In popular culture, what does BFF stand for?",
+   "Answer": "Best Friends Forever"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What country is Transylvania a part of?",
+   "Answer": "Romania"
+ },
+ {
+   "Quiz": 38,
+   "Question": "Holstein and Angus are types of what?",
+   "Answer": "Cattle"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What country lies directly south of the Strait of Gibraltar?",
+   "Answer": "Morocco"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What disease is caused by a deficiency of Vitamin C?",
+   "Answer": "Scurvy"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What method, used by bats to navigate, is also known as \"bio sonar\"?",
+   "Answer": "Echolocation"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What Christmas production is responsible for about 40% of the revenue of American ballet companies?",
+   "Answer": "The Nutcracker"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What 1997 blockbuster movie told the story of something that happened 85 years earlier?",
+   "Answer": "Titanic"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What city's \"Great Smog\" is blamed for killing 4,000 people over four days in 1952?",
+   "Answer": "London"
+ },
+ {
+   "Quiz": 38,
+   "Question": "Who performed \"U Can't Touch This\" and \"2 Legit 2 Quit\"?",
+   "Answer": "MC Hammer"
+ },
+ {
+   "Quiz": 38,
+   "Question": "If Mario eats a mushroom, he gets bigger. What power up item allows Mario to shoot fireballs?",
+   "Answer": "Flower"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What comic book character has an alter ego named Diana Prince?",
+   "Answer": "Wonder Woman"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What is the best-selling hybrid car of all time?",
+   "Answer": "Toyota Prius"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What \"generalísimo\" ruled Spain from 1939–1975?",
+   "Answer": "Francisco Franco"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What Russian lake is the world's deepest, and also its oldest?",
+   "Answer": "Lake Baikal"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What country was once led by F. W. de Klerk?",
+   "Answer": "South Africa"
+ },
+ {
+   "Quiz": 38,
+   "Question": "In what book would you find a character known as the Artful Dodger?",
+   "Answer": "Oliver Twist"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What is the common English translation of the Latin phrase \"nolo contendere\"?",
+   "Answer": "No contest"
+ },
+ {
+   "Quiz": 38,
+   "Question": "Hermes is 1. Aphrodite is 2. Zeus is 5. What is 4?",
+   "Answer": "Ares"
+ },
+ {
+   "Quiz": 38,
+   "Question": "What is pulchritude?",
+   "Answer": "Beauty"
+ },
+ {
+   "Quiz": 39,
+   "Question": "Better late than when?",
+   "Answer": "Never"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What does www stand for in www.google.com?",
+   "Answer": "World Wide Web"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What major river flows through London?",
+   "Answer": "River Thames"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What is the Scottish word for lake?",
+   "Answer": "Loch"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What German road system famously has no federal speed limit?",
+   "Answer": "Autobahn"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What does the G stand for in the economic term GDP?",
+   "Answer": "Gross"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What is VIII plus XXIV?",
+   "Answer": "XXXII"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What is the name of an Amsterdam soccer team, two characters from the Iliad, and a brand of cleaning powder?",
+   "Answer": "Ajax"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What Russian leader had a prominent birth mark on his forehead?",
+   "Answer": "Mikhail Gorbachev"
+ },
+ {
+   "Quiz": 39,
+   "Question": "Which two superheros have been portrayed by Ryan Reynolds?",
+   "Answer": "Green Lantern & Deadpool"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What disease did Edward Jenner develop a vaccine against in the 1790s?",
+   "Answer": "Smallpox"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What motel was featured in the movie \"Psycho\"?",
+   "Answer": "The Bates Motel"
+ },
+ {
+   "Quiz": 39,
+   "Question": "In what country would you find most of the Indus valley?",
+   "Answer": "Pakistan"
+ },
+ {
+   "Quiz": 39,
+   "Question": "Who tries to hunt Bugs Bunny during wabbit season?",
+   "Answer": "Elmer Fudd"
+ },
+ {
+   "Quiz": 39,
+   "Question": "If a U.S. army captain is promoted, what is their new rank?",
+   "Answer": "Major"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What is the southernmost city in the United States with a population over 100,000?",
+   "Answer": "Honolulu"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What TV show is set in the fictional Melbourne suburb of Erinsborough?",
+   "Answer": "Neighbours"
+ },
+ {
+   "Quiz": 39,
+   "Question": "What is the name of an African country or a former British coin worth 21 shillings?",
+   "Answer": "Guinea"
+ },
+ {
+   "Quiz": 39,
+   "Question": "A modern round brilliant cut has 58 of these. What are they?",
+   "Answer": "Facets"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Which sign of the zodiac is represented by a crab?",
+   "Answer": "Cancer"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What element of the periodic table was discovered shortly after the discovery of Uranus in 1789?",
+   "Answer": "Uranium"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What is the most points one can score with a single dart throw?",
+   "Answer": "60"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What country does Samba music come from?",
+   "Answer": "Brazil"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Whose election is announced with white smoke?",
+   "Answer": "The Pope"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What country is the island of Sumatra a part of?",
+   "Answer": "Indonesia"
+ },
+ {
+   "Quiz": 40,
+   "Question": "It's a palindrome, a fashion magazine, and the French word for \"her\". What is it?",
+   "Answer": "Elle"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What 1973 movie was about two priests called in to save a girl who was possessed by the devil?",
+   "Answer": "The Exorcist"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What musical theater production is loosely based on T. S. Eliot's poetry collection: \"Old Possum's Book of Practical Cats\"?",
+   "Answer": "Cats"
+ },
+ {
+   "Quiz": 40,
+   "Question": "It has thick hair, big incisors, and it's not a moose. What is the national animal of Canada?",
+   "Answer": "Beaver"
+ },
+ {
+   "Quiz": 40,
+   "Question": "The world record in this Olympic event is 6.22 meters – over 20 feet. What is the event?",
+   "Answer": "Pole Vault"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What comes next in this sequence: Bi, Tri, Quad?",
+   "Answer": "Quint"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What was the name of the rabbit in the movie \"Bambi\"?",
+   "Answer": "Thumper"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Who wrote \"Dracula\"?",
+   "Answer": "Bram Stoker"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Who said, in 1995, that the problem with her marriage was that there are three people in it?",
+   "Answer": "Princess Diana"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Where does the rain stay mainly on the plain?",
+   "Answer": "Spain"
+ },
+ {
+   "Quiz": 40,
+   "Question": "What sea borders five countries today but only bordered two in 1989?",
+   "Answer": "Caspian Sea"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Fill in the blank: An ounce of prevention is worth a pound of ___.",
+   "Answer": "Cure"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Which group of people form the lowest stratum in India's caste system?",
+   "Answer": "Dalits"
+ },
+ {
+   "Quiz": 40,
+   "Question": "Beijing means \"northern capital\" in Chinese. What city's name means \"southern capital\"?",
+   "Answer": "Nanjing"
+ },
+ {
+   "Quiz": 41,
+   "Question": "Which element has the symbol Ag?",
+   "Answer": "Silver"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What was first tested in New Mexico on July 16, 1945?",
+   "Answer": "The Atomic Bomb"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What word refers to a person who is equally capable with either hand?",
+   "Answer": "Ambidextrous"
+ },
+ {
+   "Quiz": 41,
+   "Question": "Who created \"Star Wars\"?",
+   "Answer": "George Lucas"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What is the \"lower\" house of the British Parliament?",
+   "Answer": "House of Commons"
+ },
+ {
+   "Quiz": 41,
+   "Question": "Who flew too close to the sun and fell to Earth when his wax wings melted?",
+   "Answer": "Icarus"
+ },
+ {
+   "Quiz": 41,
+   "Question": "In what country would you find the cities of Tangier and Marrakesh?",
+   "Answer": "Morocco"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What mythological animal appears in the title of one of the Harry Potter books?",
+   "Answer": "Phoenix"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What term refers to a triangle with exactly two equal sides?",
+   "Answer": "Isosceles"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What movie featured the catchphrase \"hasta la vista, baby\"?",
+   "Answer": "Terminator 2"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What political organization has controlled the Gaza strip since 2007?",
+   "Answer": "Hamas"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What are seraphim and cherubim?",
+   "Answer": "Angels"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What is the largest country that has ZERO active volcanoes?",
+   "Answer": "Brazil"
+ },
+ {
+   "Quiz": 41,
+   "Question": "Who was Alexander the Great's teacher?",
+   "Answer": "Aristotle"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What famous actor's last name means \"baby goose\"?",
+   "Answer": "Ryan Gosling"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What high-kicking style of dance was the Moulin Rouge famous for?",
+   "Answer": "Can-can"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What Z word is a synonym of \"menagerie\"?",
+   "Answer": "Zoo"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What disease killed a record 2.3 million people in 2005, but has killed fewer people every year since?",
+   "Answer": "AIDS"
+ },
+ {
+   "Quiz": 41,
+   "Question": "What country has been called the \"graveyard of empires\" because many powerful countries have invaded it with poor results?",
+   "Answer": "Afghanistan"
+ },
+ {
+   "Quiz": 41,
+   "Question": "Who was born for the 14th time in 1935, at least according to some?",
+   "Answer": "The Dalai Lama"
+ },
+ {
+   "Quiz": 42,
+   "Question": "In what country were noodles invented around 4000 years ago?",
+   "Answer": "China"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What is Mexico's currency?",
+   "Answer": "Mexican Peso"
+ },
+ {
+   "Quiz": 42,
+   "Question": "In chat lingo, what does \"TBH\" stand for?",
+   "Answer": "To be honest"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What does a tadpole become when it grows up?",
+   "Answer": "Frog / Toad"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What Swedish retailer is reportedly responsible for about 1% of Earth's annual wood consumption?",
+   "Answer": "IKEA"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What do hummingbirds and Greek gods drink?",
+   "Answer": "Nectar"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What's the first rule of Fight Club?",
+   "Answer": "Do not talk about Fight Club"
+ },
+ {
+   "Quiz": 42,
+   "Question": "In what country did \"The Sound of Music\" take place?",
+   "Answer": "Austria"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What is the least populous country that hosts a Formula One race?",
+   "Answer": "Monaco"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What famous U.S. musical festival was held from August 15–18, 1969?",
+   "Answer": "Woodstock"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What dictator appeared in a leather jacket and sunglasses in a promotional video for his country's latest ballistic missile?",
+   "Answer": "Kim Jong-un"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What is India's longest river, measured by its length within India?",
+   "Answer": "Ganges"
+ },
+ {
+   "Quiz": 42,
+   "Question": "Who are made of sugar, spice, and everything nice?",
+   "Answer": "Little girls"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What smelly element is also referred to as brimstone?",
+   "Answer": "Sulfur"
+ },
+ {
+   "Quiz": 42,
+   "Question": "Apart from the monarch, who is the leader of the Church of England?",
+   "Answer": "Archbishop of Canterbury"
+ },
+ {
+   "Quiz": 42,
+   "Question": "Besides the moon, what is the brightest object in the night sky?",
+   "Answer": "Venus"
+ },
+ {
+   "Quiz": 42,
+   "Question": "Who is the patron saint of England?",
+   "Answer": "St. George"
+ },
+ {
+   "Quiz": 42,
+   "Question": "In the book \"Game of Thrones\", what last name is given to children from the North with unknown parentage?",
+   "Answer": "Snow"
+ },
+ {
+   "Quiz": 42,
+   "Question": "Who succeeded Nikita Khrushchev as leader of the USSR in 1964?",
+   "Answer": "Leonid Brezhnev"
+ },
+ {
+   "Quiz": 42,
+   "Question": "What word, starting with N, is a common synonym for \"sobriquet\"?",
+   "Answer": "Nickname"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What does a predator hunt?",
+   "Answer": "Prey"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What is the capital of Australia?",
+   "Answer": "Canberra"
+ },
+ {
+   "Quiz": 43,
+   "Question": "Which sign of the zodiac is depicted by a lion?",
+   "Answer": "Leo"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What is the term for an angle that is greater than 90 degrees?",
+   "Answer": "Obtuse"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What city hosted the 2024 Summer Olympics?",
+   "Answer": "Paris"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What does the V stand for in ROYGBIV?",
+   "Answer": "Violet"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What is an underwater missile called?",
+   "Answer": "Torpedo"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What country's name is written as Ελλάδα in its native language?",
+   "Answer": "Greece"
+ },
+ {
+   "Quiz": 43,
+   "Question": "Which Grand Slam tennis tournament is played south of the Equator?",
+   "Answer": "Australian Open"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What does a Geiger counter measure?",
+   "Answer": "Ionizing radiation"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What children's book starts with the line \"All children, except one, grow up\"?",
+   "Answer": "Peter Pan"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What word is derived from the Latin for \"after giving birth\"?",
+   "Answer": "Postpartum"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What annual counterculture festival is held in the Black Rock Desert of Nevada?",
+   "Answer": "Burning Man"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What country administered the Chinese region of Macau from 1557–1999?",
+   "Answer": "Portugal"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What musical instrument does Yo Yo Ma play?",
+   "Answer": "Cello"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What body part is composed of the duodenum, jejunum, and ileum?",
+   "Answer": "Small intestine"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What was the middle name of playwright George Shaw?",
+   "Answer": "Bernard"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What chemical makes hot peppers hot?",
+   "Answer": "Capsaicin"
+ },
+ {
+   "Quiz": 43,
+   "Question": "What city in modern-day Poland functioned as an independent country in the period between the two World Wars?",
+   "Answer": "Gdańsk"
+ },
+ {
+   "Quiz": 43,
+   "Question": "Who was born in Turkey in 270 AD and (according to some) still lives today on international sea ice?",
+   "Answer": "Saint Nicholas"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What country's flag is a white rectangle, with a red circle in the center?",
+   "Answer": "Japan"
+ },
+ {
+   "Quiz": 44,
+   "Question": "According to the Quran, a man may have as many as four ____.",
+   "Answer": "Wives"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Who is the Greek god of the sea?",
+   "Answer": "Poseidon"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What country is Greenland an autonomous part of?",
+   "Answer": "Denmark"
+ },
+ {
+   "Quiz": 44,
+   "Question": "In popular culture, what type of animal brings newborn children?",
+   "Answer": "Stork"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What can be scalene, isosceles, or equilateral?",
+   "Answer": "Triangles"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What city is famous for \"deep-dish\" pizza?",
+   "Answer": "Chicago"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Which U.S. state borders four Great Lakes?",
+   "Answer": "Michigan"
+ },
+ {
+   "Quiz": 44,
+   "Question": "In what country is Baja California located?",
+   "Answer": "Mexico"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Fill in the blank: An eye for an eye makes the whole world _____.",
+   "Answer": "Blind"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What region takes its name from a mythical race of giants, the Patagons, who Ferdinand Magellan claimed to have seen on his voyage around the world?",
+   "Answer": "Patagonia"
+ },
+ {
+   "Quiz": 44,
+   "Question": "It happens once a year and it's named after the Roman god Janus. What is it?",
+   "Answer": "January"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Acrophobia is the fifth most common phobia in the United States. What is it?",
+   "Answer": "Fear of heights"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What ethnic group is famous for helping people to climb Mt. Everest?",
+   "Answer": "Sherpas"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What collection of stories were told by Scheherazade, one per night, as she tried to delay the sultan from killing her?",
+   "Answer": "One Thousand and One Nights"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Who is most often credited with the above quote (despite not actually saying it)?",
+   "Answer": "Mohandas Gandhi"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What was the computer's name in \"2001: A Space Odyssey\"?",
+   "Answer": "Hal 9000"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What candy was featured in the movie \"E.T.\" after M&M's refused the opportunity?",
+   "Answer": "Reese's Pieces"
+ },
+ {
+   "Quiz": 44,
+   "Question": "Who was the first democratically-elected President of Russia?",
+   "Answer": "Boris Yeltsin"
+ },
+ {
+   "Quiz": 44,
+   "Question": "What does a somnambulist do?",
+   "Answer": "Sleepwalk"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What type of cheese is most commonly used on pizza?",
+   "Answer": "Mozzarella"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What animated Disney movie featured an elephant with big ears?",
+   "Answer": "Dumbo"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What company bought Instagram for $1 billion in 2012?",
+   "Answer": "Facebook"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What well-known flag has five rings on it?",
+   "Answer": "The Olympic Flag"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What actor won a $10 million judgement in 2022 after suing ex-wife Amber Heard for defamation?",
+   "Answer": "Johnny Depp"
+ },
+ {
+   "Quiz": 45,
+   "Question": "In which U.S. state is Pearl Harbor located?",
+   "Answer": "Hawaii"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What's either a type of flower or part of your eye?",
+   "Answer": "Iris"
+ },
+ {
+   "Quiz": 45,
+   "Question": "Although not current, what is the most well-known scale for measuring earthquake intensity?",
+   "Answer": "Richter"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What is the second element in the periodic table?",
+   "Answer": "Helium"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What Spanish island has 3 of the world's top 10 night clubs, according to DJ Mag?",
+   "Answer": "Ibiza"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What movie character fought in Vietnam, played ping pong, and ran across America?",
+   "Answer": "Forrest Gump"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What family was Juliet from in the play \"Romeo and Juliet\"?",
+   "Answer": "Capulet"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What modern-day animal did the extinct Mastodon most closely resemble?",
+   "Answer": "Elephants"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What company could be described as the European equivalent of Boeing?",
+   "Answer": "Airbus"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What is the westernmost national capital in the Americas?",
+   "Answer": "Mexico City"
+ },
+ {
+   "Quiz": 45,
+   "Question": "Who was sentenced to death in 399 BC for impeity and corrupting the youth of Athens?",
+   "Answer": "Socrates"
+ },
+ {
+   "Quiz": 45,
+   "Question": "On which day of the year does Bastille Day occur?",
+   "Answer": "41821"
+ },
+ {
+   "Quiz": 45,
+   "Question": "What Z word is the antonym of nadir?",
+   "Answer": "Zenith"
+ },
+ {
+   "Quiz": 45,
+   "Question": "There are 14 eight-thousanders in the world. Among these 14, which one is nearest to being a nine-thousander?",
+   "Answer": "Mt. Everest"
+ },
+ {
+   "Quiz": 45,
+   "Question": "Who is the patron saint of lost causes?",
+   "Answer": "St. Jude / St. Rita"
+ },
+ {
+   "Quiz": 46,
+   "Question": "How many milligrams are in a kilogram?",
+   "Answer": "1000000"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What is the occupation of Mario and Luigi?",
+   "Answer": "Plumber"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What is the most commonly-spoken language in Austria?",
+   "Answer": "German"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What real-life Native American had a Disney animated movie made about her?",
+   "Answer": "Pocahontas"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What animal is sometimes called the \"ship of the desert\"?",
+   "Answer": "Camel"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What is either a state of enlightenment or a popular band from the 1990s?",
+   "Answer": "Nirvana"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What food product is made in a churn?",
+   "Answer": "Butter"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What is the largest country that borders Suriname?",
+   "Answer": "Brazil"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What are Good Hope, Cod, Horn, and Fear?",
+   "Answer": "Capes"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What word is a homophone of kernel?",
+   "Answer": "Colonel"
+ },
+ {
+   "Quiz": 46,
+   "Question": "Which constellation represents twins?",
+   "Answer": "Gemini"
+ },
+ {
+   "Quiz": 46,
+   "Question": "Who wrote \"A Tale of Two Cities\"?",
+   "Answer": "Charles Dickens"
+ },
+ {
+   "Quiz": 46,
+   "Question": "Who rid Ireland of snakes, according to legend?",
+   "Answer": "St. Patrick"
+ },
+ {
+   "Quiz": 46,
+   "Question": "Nautically speaking, what is the opposite of stern?",
+   "Answer": "Bow"
+ },
+ {
+   "Quiz": 46,
+   "Question": "In the movie \"Scarface\", what country did Tony Montana come from?",
+   "Answer": "Cuba"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What author's first and middle names were John Ronald Reuel?",
+   "Answer": "J. R. R. Tolkien"
+ },
+ {
+   "Quiz": 46,
+   "Question": "In what type of cell would you find an axon and dendrites?",
+   "Answer": "Nerve"
+ },
+ {
+   "Quiz": 46,
+   "Question": "Who was Queen Victoria's husband?",
+   "Answer": "Prince Albert"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What actress starred in \"Avatar\" and \"Aliens\"?",
+   "Answer": "Sigourney Weaver"
+ },
+ {
+   "Quiz": 46,
+   "Question": "What city's American embassy was evacuated via helicopter in 1975 as Communist troops closed in?",
+   "Answer": "Saigon"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is the official language of Brazil?",
+   "Answer": "Portuguese"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What band's music is featured in the musical \"Mamma Mia!\"?",
+   "Answer": "ABBA"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What singer's hits include \"Someone Like You\" and \"Rolling in the Deep\"?",
+   "Answer": "Adele"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What school is accessible via an express train that departs from Platform 9 ¾ at King's Cross station?",
+   "Answer": "Hogwarts"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is the shortest word that starts with gn?",
+   "Answer": "Gnu"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is another word for the abominable snowman?",
+   "Answer": "Yeti"
+ },
+ {
+   "Quiz": 47,
+   "Question": "Which country is connected to Singapore by bridges?",
+   "Answer": "Malaysia"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What are Rigel, Betelgeuse, and Polaris?",
+   "Answer": "Stars"
+ },
+ {
+   "Quiz": 47,
+   "Question": "Who is the Incredible Hulk's alter ego?",
+   "Answer": "Bruce Banner"
+ },
+ {
+   "Quiz": 47,
+   "Question": "In what year did Columbus sail the ocean blue?",
+   "Answer": "1492"
+ },
+ {
+   "Quiz": 47,
+   "Question": "Who was born in Argentina, was a Communist revolutionary in Cuba, and was executed in Bolivia?",
+   "Answer": "Che Guevara"
+ },
+ {
+   "Quiz": 47,
+   "Question": "Which U.S. President is thought to have had polio?",
+   "Answer": "Franklin D. Roosevelt"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What term, meaning \"the boy\", refers to weather conditions caused by warm water off the Pacific coast of South America?",
+   "Answer": "El Niño"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is the name of the Japanese mafia?",
+   "Answer": "Yakuza"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What country was Aesop from?",
+   "Answer": "Greece"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is the capital of El Salvador?",
+   "Answer": "San Salvador"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What language gave us the words \"chutzpah\" and \"shtick\"?",
+   "Answer": "Yiddish"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What is the name of a volcano, a camera company, and a type of apple?",
+   "Answer": "Fuji"
+ },
+ {
+   "Quiz": 47,
+   "Question": "What Jamaican spice blend is made with allspice, Scotch bonnet peppers, and other seasonings?",
+   "Answer": "Jerk"
+ },
+ {
+   "Quiz": 47,
+   "Question": "Who is (usually) pursued by Blinky, Inky, Pinky and Clyde?",
+   "Answer": "Pac-Man"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What usually has three leaves, but in about 1/5000 cases has four or more?",
+   "Answer": "Clover"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What fictional character had a mysterious lighting bolt scar on his forehead from when he was a baby?",
+   "Answer": "Harry Potter"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What substance could be described as Superman's Achilles heel?",
+   "Answer": "Kryptonite"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What does \"casa grande\" mean in English?",
+   "Answer": "Big House"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What type of nut is used to make Nutella?",
+   "Answer": "Hazelnuts"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What American swimmer won eight gold medals at the 2008 Olympics?",
+   "Answer": "Michael Phelps"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What are the first five digits of pi?",
+   "Answer": "3.1415"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What is the name of the dinosaur that Mario sometimes rides?",
+   "Answer": "Yoshi"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What method of birth control is permitted by the Catholic Church?",
+   "Answer": "Abstinence / rhythm method"
+ },
+ {
+   "Quiz": 48,
+   "Question": "From where can you check out anytime you like, but never leave?",
+   "Answer": "The Hotel California"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What scientist sailed on the HMS Beagle?",
+   "Answer": "Charles Darwin"
+ },
+ {
+   "Quiz": 48,
+   "Question": "In what country is it customary, although rare, to break plates during celebrations?",
+   "Answer": "Greece"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What is the former English name of Beijing?",
+   "Answer": "Peking"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What is the capital of Bangladesh?",
+   "Answer": "Dhaka"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What is the second most-populous city in New York state?",
+   "Answer": "Buffalo"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What musical group sings \"Love Shack\" and \"Rock Lobster\"?",
+   "Answer": "The B-52s"
+ },
+ {
+   "Quiz": 48,
+   "Question": "In Hawaii, what does mahalo mean?",
+   "Answer": "Thank You"
+ },
+ {
+   "Quiz": 48,
+   "Question": "Who wrote \"A Farewell to Arms\" and \"For Whom the Bell Tolls\"?",
+   "Answer": "Ernest Hemingway"
+ },
+ {
+   "Quiz": 48,
+   "Question": "On what river's left bank would you find the famous \"Left Bank\"?",
+   "Answer": "Seine"
+ },
+ {
+   "Quiz": 48,
+   "Question": "What word means \"to drink\" and is a homophone of the word coif?",
+   "Answer": "Quaff"
+ },
+ {
+   "Quiz": 49,
+   "Question": "In what country would you find the headquarters of Ferrari?",
+   "Answer": "Italy"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What did Robert Oppenheimer help create, leading him to say \"I am become Death, the destroyer of worlds\"?",
+   "Answer": "Atomic bomb"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What type of bird is often depicted with an olive branch in its beak?",
+   "Answer": "Dove"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What small country is famous for producing champion sprinters?",
+   "Answer": "Jamaica"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Who is Batman's alter-ego?",
+   "Answer": "Bruce Wayne"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What movie featured characters code-named \"Iceman\", \"Goose\", and \"Maverick\"?",
+   "Answer": "Top Gun"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What language does the word \"Shalom\" come from?",
+   "Answer": "Hebrew"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What Taiwanese drink is made of sweetened tea and chewy tapioca balls?",
+   "Answer": "Bubble tea"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What M word refers to the meat of a sheep that is more than two years old?",
+   "Answer": "Mutton"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What's something that most adults in history have done, but that Queen Elizabeth I and Isaac Newton supposedly never did?",
+   "Answer": "Have sex"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Young ones are known as kits, females are vixens, and a group is a skulk. What are they?",
+   "Answer": "Foxes"
+ },
+ {
+   "Quiz": 49,
+   "Question": "How many nanoseconds are in a minute?",
+   "Answer": "60 Billion"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Who was the lead actress in the movie \"Titanic\"?",
+   "Answer": "Kate Winslet"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Who lives in the Apostolic Palace?",
+   "Answer": "The Pope"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Who was born in Funchal, Portugal on February 5th, 1985?",
+   "Answer": "Cristiano Ronaldo"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What is the most famous fountain in Rome?",
+   "Answer": "Trevi Fountain"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What is either a type of bird or a chain of islands off the coast of Africa?",
+   "Answer": "Canary"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What world leader introduced Glasnost and Perestroika?",
+   "Answer": "Mikhail Gorbachev"
+ },
+ {
+   "Quiz": 49,
+   "Question": "What city's Grand Bazaar is visited by at least 250,000 on an average day?",
+   "Answer": "Istanbul"
+ },
+ {
+   "Quiz": 49,
+   "Question": "Which Madonna song mentions Grace Kelly, Joe Dimaggio, and Rita Hayworth?",
+   "Answer": "Vogue"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What did Snow White eat that put her to sleep?",
+   "Answer": "Poisoned apple"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is the only U.S. state that starts with R?",
+   "Answer": "Rhode Island"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What was the name of the girl who went to Oz?",
+   "Answer": "Dorothy Gale"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is thought to be at the center of the Milky Way?",
+   "Answer": "Black hole"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is the world's most-visited museum?",
+   "Answer": "The Louvre"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is the job title of a person who is hired to carry golf clubs?",
+   "Answer": "Caddy"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What neurotoxin is used to prevent wrinkles?",
+   "Answer": "Botox"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is the largest city in Brazil?",
+   "Answer": "São Paulo"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What country hosted the FIFA World Cup in 2018?",
+   "Answer": "Russia"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What Billy Joel song contains the lyric: \"Son can you play me a memory, I'm not really sure how it goes\"?",
+   "Answer": "Piano Man"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What title is given to the leader of a Catholic diocese?",
+   "Answer": "Bishop"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What country was Hamlet the prince of?",
+   "Answer": "Denmark"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What song did Weird Al parody with the song \"Amish Paradise\"?",
+   "Answer": "Gangsta's Paradise"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What is the name for the crime of lying under oath?",
+   "Answer": "Perjury"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What horror movie villain wore a hockey mask?",
+   "Answer": "Jason Voorhees"
+ },
+ {
+   "Quiz": 50,
+   "Question": "Whose motto is \"All for one, one for all\"?",
+   "Answer": "The Three Musketeers"
+ },
+ {
+   "Quiz": 50,
+   "Question": "Adjusted for inflation, what 1939 film had the highest box-office receipts in U.S. history?",
+   "Answer": "Gone with the Wind"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What common poison was known as \"inheritance powder\" in the early 19th century?",
+   "Answer": "Arsenic"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What animal's name comes from the Greek for \"horse\" and \"river\"?",
+   "Answer": "Hippopotamus"
+ },
+ {
+   "Quiz": 50,
+   "Question": "What comedian who died in 2004 got \"no respect\"?",
+   "Answer": "Rodney Dangerfield"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Who is the world record holder for the men's 100m and 200m sprints?",
+   "Answer": "Usain Bolt"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What 46 meter tall object did France give to the United States in the 1880s?",
+   "Answer": "The Statue of Liberty"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What country did the U.S. blockade in 1962 after the Soviet Union tried to put nuclear missile bases there?",
+   "Answer": "Cuba"
+ },
+ {
+   "Quiz": 51,
+   "Question": "In what movie did an upside down Tobey Maguire kiss Kirsten Dunst?",
+   "Answer": "Spider-Man"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What species are also known as killer whales?",
+   "Answer": "Orcas"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Who is the main character of \"The Hunger Games\" series?",
+   "Answer": "Katniss Everdeen"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Who takes the Hippocratic Oath?",
+   "Answer": "Doctors"
+ },
+ {
+   "Quiz": 51,
+   "Question": "If two's company, what is three?",
+   "Answer": "A crowd"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What did Peter Piper pick a peck of?",
+   "Answer": "Pickled peppers"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What make of car was used as a time machine in \"Back to the Future\"?",
+   "Answer": "DeLorean"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What animal is thought to have been domesticated in what is today Kazakhstan around 3000 BC?",
+   "Answer": "Horse"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Who won't you like when he's angry?",
+   "Answer": "The Incredible Hulk"
+ },
+ {
+   "Quiz": 51,
+   "Question": "In what modern-day country was the Viking settlement of Vinland located?",
+   "Answer": "Canada"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Who angered many people when he said \"we're more popular than Jesus now\"?",
+   "Answer": "John Lennon"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What disease has been on the brink of eradication for several years, with new cases now only appearing in Pakistan and Afghanistan?",
+   "Answer": "Polio"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What comes in tapioca, figgy, and chocolate varieties?",
+   "Answer": "Pudding"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What part of an automobile measures distance traveled?",
+   "Answer": "Odometer"
+ },
+ {
+   "Quiz": 51,
+   "Question": "What political group was responsible for killing about 25% of the population of Cambodia in the late 1970s?",
+   "Answer": "Khmer Rouge"
+ },
+ {
+   "Quiz": 51,
+   "Question": "Which retailer sells its famous Birkin bag for at least $11,000 – but makes it extremely difficult to buy to create an artificial sense of scarcity?",
+   "Answer": "Hermès"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What type of flag indicates surrender?",
+   "Answer": "White flag"
+ },
+ {
+   "Quiz": 52,
+   "Question": "In what country was Adolf Hitler born?",
+   "Answer": "Austria"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What is the central religious text of Islam?",
+   "Answer": "Quran"
+ },
+ {
+   "Quiz": 52,
+   "Question": "From what original language are the Romance languages derived?",
+   "Answer": "Latin"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Which chess piece can only move diagonally?",
+   "Answer": "Bishop"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What element is commonly found inside thermometers?",
+   "Answer": "Mercury"
+ },
+ {
+   "Quiz": 52,
+   "Question": "In the Disney movie, what was the profession of the seven dwarfs?",
+   "Answer": "Mining"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Who famously had children with both Julius Caesar and Mark Antony?",
+   "Answer": "Cleopatra"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What civilization sacrificed thousands of people every year, placing their skulls in racks known as Tzompantli?",
+   "Answer": "The Aztecs"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Who was the lead singer of Nirvana?",
+   "Answer": "Kurt Cobain"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What type of animal is also known as a sea cow?",
+   "Answer": "Manatee or Dugong"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What country invented bank accounts that had numbers, not names?",
+   "Answer": "Switzerland"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Who directed three of the four highest-grossing movies of all time?",
+   "Answer": "James Cameron"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What was the deadliest battle in the American Civil War?",
+   "Answer": "Battle of Gettysburg"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Name one of the two majority-Muslim countries that are part of NATO.",
+   "Answer": "Albania / Turkey"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What palace is famous for its hall of mirrors?",
+   "Answer": "Palace of Versailles"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Bruxism is something painful that people do in their sleep. What is it?",
+   "Answer": "Grinding teeth"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Where would you find the Sea of Tranquility?",
+   "Answer": "The Moon"
+ },
+ {
+   "Quiz": 52,
+   "Question": "Who is the namesake of two continents?",
+   "Answer": "Amerigo Vespucci"
+ },
+ {
+   "Quiz": 52,
+   "Question": "What book by Joseph Conrad was the inspiration for the movie \"Apocalypse Now\"?",
+   "Answer": "Heart of Darkness"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What does the H stand for in H2O?",
+   "Answer": "Hydrogen"
+ },
+ {
+   "Quiz": 53,
+   "Question": "Which U.S. state has counted two well-known actors among its governors?",
+   "Answer": "California"
+ },
+ {
+   "Quiz": 53,
+   "Question": "Put your thinking cap on. What is BY FAR the least common day of the year for a person to be born on?",
+   "Answer": "February 29th"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What movie's theme song was \"My Heart Will Go On\"?",
+   "Answer": "Titanic"
+ },
+ {
+   "Quiz": 53,
+   "Question": "From which country did Tunisia gain its independence in 1956?",
+   "Answer": "France"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What nautical word refers to the right side of a ship?",
+   "Answer": "Starboard"
+ },
+ {
+   "Quiz": 53,
+   "Question": "Who was the legendary enemy of the Sheriff of Nottingham?",
+   "Answer": "Robin Hood"
+ },
+ {
+   "Quiz": 53,
+   "Question": "Where do Neapolitan people come from?",
+   "Answer": "Naples"
+ },
+ {
+   "Quiz": 53,
+   "Question": "In what sport would you hear the terms hooker, scrum, and ruck?",
+   "Answer": "Rugby"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What type of cloud produces thunderstorms?",
+   "Answer": "Cumulonimbus"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What region of France did William the Conqueror come from?",
+   "Answer": "Normandy"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What did the dish run away with?",
+   "Answer": "The spoon"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What was the name of Peter, Paul, and Mary's \"magic\" dragon?",
+   "Answer": "Puff"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What were the Kyoto Protocol and Paris Agreement meant to help prevent?",
+   "Answer": "Climate change"
+ },
+ {
+   "Quiz": 53,
+   "Question": "If someone is a \"man of the cloth\", what is their job?",
+   "Answer": "Clergyman"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What instrument is used to measure the intensity of an earthquake?",
+   "Answer": "Seismometer"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What is the traditional gift for a one year wedding anniversary?",
+   "Answer": "Paper"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What body part does one use to give someone a butterfly kiss?",
+   "Answer": "Eyelashes"
+ },
+ {
+   "Quiz": 53,
+   "Question": "In what country did Gandhi fight for civil rights before moving back to India?",
+   "Answer": "South Africa"
+ },
+ {
+   "Quiz": 53,
+   "Question": "What is the largest island in the English Channel?",
+   "Answer": "Isle of Wight"
+ },
+ {
+   "Quiz": 54,
+   "Question": "In what galaxy is our solar system located?",
+   "Answer": "The Milky Way"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What island do Cypriots come from?",
+   "Answer": "Cyprus"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What word can mean either \"a student\" or \"a part of the eye\"?",
+   "Answer": "Pupil"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What is either an exclusive sport or a Ralph Lauren brand?",
+   "Answer": "Polo"
+ },
+ {
+   "Quiz": 54,
+   "Question": "If you order fromage at a French restaurant, what will you get?",
+   "Answer": "Cheese"
+ },
+ {
+   "Quiz": 54,
+   "Question": "According to a popular misconception, what animal buries its head in the sand when threatened?",
+   "Answer": "Ostrich"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What type of tree do acorns come from?",
+   "Answer": "Oak"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What was the name for the system of racial segregation in South Africa prior to 1994?",
+   "Answer": "Apartheid"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What substance is also known as \"black gold\"?",
+   "Answer": "Oil"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What Colombian dance fitness program is practiced by over 15 million people?",
+   "Answer": "Zumba"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What word often follows blood, mandarin, and agent?",
+   "Answer": "Orange"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What metallic toxin is present in tunafish?",
+   "Answer": "Mercury"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What is the call sign of the plane carrying the U.S. president?",
+   "Answer": "Air Force One"
+ },
+ {
+   "Quiz": 54,
+   "Question": "Who was the lead actor in the \"Bourne\" series?",
+   "Answer": "Matt Damon"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What tool is used to measure atmospheric pressure?",
+   "Answer": "Barometer"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What celebration marked the 60th year of Queen Elizabeth's reign?",
+   "Answer": "Diamond Jubilee"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What two well-known minerals have a name that ends in Z?",
+   "Answer": "Quartz & Topaz"
+ },
+ {
+   "Quiz": 54,
+   "Question": "What country has a population of over 150 million but has never won an Olympic medal?",
+   "Answer": "Bangladesh"
+ },
+ {
+   "Quiz": 54,
+   "Question": "Who was the \"Man of La Mancha\"?",
+   "Answer": "Don Quixote"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Which two countries does Mongolia border?",
+   "Answer": "China & Russia"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What is the Spanish equivalent of the name Mary?",
+   "Answer": "Maria"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What collection of children's stories feature a young boy named Mowgli?",
+   "Answer": "The Jungle Book"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What type of doctor specializes in matters related to the skin?",
+   "Answer": "Dermatologist"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What is the largest Spanish-speaking country by land area?",
+   "Answer": "Argentina"
+ },
+ {
+   "Quiz": 55,
+   "Question": "In what city would you find Scotland Yard?",
+   "Answer": "London"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What does the German word \"Hund\" mean?",
+   "Answer": "Dog"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What fictional series takes place in the post-apocalyptic nation of Panem?",
+   "Answer": "The Hunger Games"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Who was the first person to see the moons of Jupiter?",
+   "Answer": "Galileo Galilei"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What was the name of the first female smurf?",
+   "Answer": "Smurfette"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What two words did Ebenezer Scrooge say to express contempt?",
+   "Answer": "Bah, humbug"
+ },
+ {
+   "Quiz": 55,
+   "Question": "In France, if you order viande chevaline, what type of meat will you get?",
+   "Answer": "Horse"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Which reindeer is the first to be mentioned in the song \"Rudolph the Red-Nosed Reindeer\"?",
+   "Answer": "Dasher"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Who was born near Kraków, Poland in 1920 and canonized in 2014?",
+   "Answer": "Pope John Paul II"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Who did Rocky Balboa fight in the original Rocky movie?",
+   "Answer": "Apollo Creed"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Where was Tenzing Norgay on May 29th, 1953?",
+   "Answer": "Mt. Everest"
+ },
+ {
+   "Quiz": 55,
+   "Question": "Complete the sequence: Chirac, Sarkozy, Hollande, ....",
+   "Answer": "Macron"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What country is Toussaint Louverture considered to be the father of?",
+   "Answer": "Haiti"
+ },
+ {
+   "Quiz": 55,
+   "Question": "What medical procedure is also referred to as a lumbar puncture?",
+   "Answer": "Spinal tap"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What country is Siberia a part of?",
+   "Answer": "Russia"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What traditional Chinese medical procedure involves sticking small needles into the body?",
+   "Answer": "Acupuncture"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What phone game, released in 2009, has you destroy pigs with a slingshot?",
+   "Answer": "Angry Birds"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What is a group of lions called?",
+   "Answer": "A pride"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What sport has a position called \"shortstop\"?",
+   "Answer": "Baseball"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What prison did Sirius Black escape from?",
+   "Answer": "Azkaban"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What voice range is lower than baritone?",
+   "Answer": "Bass"
+ },
+ {
+   "Quiz": 56,
+   "Question": "In everyday English, what is your patella?",
+   "Answer": "Kneecap"
+ },
+ {
+   "Quiz": 56,
+   "Question": "According to Greek mythology, who is the god of war?",
+   "Answer": "Ares"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What animals were thought to be peaceful vegetarians until Jane Goodall observed them hunting monkeys and engaging in violent warfare?",
+   "Answer": "Chimpanzees"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What popular variety of orange is named after a city in Spain?",
+   "Answer": "Valencia / Seville"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What comic book character was portrayed by bodybuilder Lou Ferrigno?",
+   "Answer": "The Incredible Hulk"
+ },
+ {
+   "Quiz": 56,
+   "Question": "Who would do anything for love (but not that)?",
+   "Answer": "Meat Loaf"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What popular food is clearly of French origin according to Belgian food historian Pierre Leclercq?",
+   "Answer": "French fries"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What Olympic event is sometimes called \"horse ballet\"?",
+   "Answer": "Dressage"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What hobby uses the terms \"purl\" and \"casting on\"?",
+   "Answer": "Knitting"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What phylum of animals includes squids, snails, and clams?",
+   "Answer": "Molluscs"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What did the Montgolfier brothers invent in 1782?",
+   "Answer": "Hot air balloon"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What is the largest country in the world that doesn't have any rivers?",
+   "Answer": "Saudi Arabia"
+ },
+ {
+   "Quiz": 56,
+   "Question": "What city was built based on the 1791 plans of Pierre Charles L'Enfant?",
+   "Answer": "Washington D.C."
+ },
+ {
+   "Quiz": 57,
+   "Question": "What ancient nation was led by pharaohs?",
+   "Answer": "Egypt"
+ },
+ {
+   "Quiz": 57,
+   "Question": "Which element has the chemical symbol Fe?",
+   "Answer": "Iron"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What is the name for a six-sided polygon?",
+   "Answer": "Hexagon"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What type of bird is considered a national symbol of New Zealand?",
+   "Answer": "Kiwi"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What is the square root of 625?",
+   "Answer": "25"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What is deer meat called?",
+   "Answer": "Venison"
+ },
+ {
+   "Quiz": 57,
+   "Question": "In what country would you be most likely to say \"Kanpai\" before taking a drink?",
+   "Answer": "Japan"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What is frozen carbon dioxide called?",
+   "Answer": "Dry ice"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What is Aspartame?",
+   "Answer": "An artificial sweetener"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What Korean martial art translates as \"the way of the hand and foot”?",
+   "Answer": "Taekwondo"
+ },
+ {
+   "Quiz": 57,
+   "Question": "In what activity can you be named Mr. Olympia?",
+   "Answer": "Bodybuilding"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What 1994 movie with Jim Carrey was also Cameron Diaz's first major role?",
+   "Answer": "The Mask"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What small, former Soviet republic borders only Ukraine and Romania?",
+   "Answer": "Moldova"
+ },
+ {
+   "Quiz": 57,
+   "Question": "Who was shot nine times in 2000, but survived and went on to become a famous rapper?",
+   "Answer": "50 Cent"
+ },
+ {
+   "Quiz": 57,
+   "Question": "According to Dante, what is the worst of the seven deadly sins?",
+   "Answer": "Pride"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What actor frequently performed alongside his dancing partner Ginger Rogers?",
+   "Answer": "Fred Astaire"
+ },
+ {
+   "Quiz": 57,
+   "Question": "Some people insult the city of Cleveland by calling it \"The Mistake on the Lake\". On what lake is Cleveland located?",
+   "Answer": "Lake Erie"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What blockbuster movie series was directed by the Wachowskis?",
+   "Answer": "The Matrix"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What does the green represent on the flag of Saudi Arabia?",
+   "Answer": "Islam"
+ },
+ {
+   "Quiz": 57,
+   "Question": "What country's largest city is Dar es Salaam?",
+   "Answer": "Tanzania"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What organ is responsible for filtering toxins such as alcohol?",
+   "Answer": "Liver"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What type of animal is Winnie the Pooh's friend Eeyore?",
+   "Answer": "Donkey"
+ },
+ {
+   "Quiz": 58,
+   "Question": "A snake is a reptile. What is a frog?",
+   "Answer": "An amphibian"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What bird was the first animal whose extinction was observed by humans as it happened?",
+   "Answer": "Dodo"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What hormone do diabetics suffer a deficiency of?",
+   "Answer": "Insulin"
+ },
+ {
+   "Quiz": 58,
+   "Question": "Which of Santa's reindeer has a name that starts with V?",
+   "Answer": "Vixen"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What style of embroidery uses a pattern of small X-shaped stitches?",
+   "Answer": "Cross stitch"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What pop group had its first hit in 1996 with the song \"Wannabe\"?",
+   "Answer": "The Spice Girls"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What country does Heineken beer come from?",
+   "Answer": "Netherlands"
+ },
+ {
+   "Quiz": 58,
+   "Question": "Most of the active holders of this world record will die within 1 year. What is it?",
+   "Answer": "Oldest person"
+ },
+ {
+   "Quiz": 58,
+   "Question": "In what activity were Garry Kasparov and Bobby Fischer world champions?",
+   "Answer": "Chess"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What is the largest chain of grocery stores in the UK?",
+   "Answer": "Tesco"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What was the name of the volleyball in the movie \"Cast Away\"?",
+   "Answer": "Wilson"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What story does the phrase \"Bah Humbug\" come from?",
+   "Answer": "A Christmas Carol"
+ },
+ {
+   "Quiz": 58,
+   "Question": "The United Nations has six official languages. Five of them are Chinese, English, French, Spanish, and Russian. What is the sixth?",
+   "Answer": "Arabic"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What ethnic group controls an autonomous region of northeastern Iraq?",
+   "Answer": "Kurds"
+ },
+ {
+   "Quiz": 58,
+   "Question": "In what country would you find the city of Timbuktu?",
+   "Answer": "Mali"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What did physicist Stephen Hawking write a \"brief history\" of in 1988?",
+   "Answer": "Time"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What are Assam and Ceylon?",
+   "Answer": "Types of tea"
+ },
+ {
+   "Quiz": 58,
+   "Question": "What doesn't the Sargasso Sea have which nearly every other sea does have?",
+   "Answer": "A shoreline"
+ },
+ {
+   "Quiz": 59,
+   "Question": "In fairy tales, who is Gretel's brother?",
+   "Answer": "Hansel"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What type of animal is neither an herbivore or a carnivore?",
+   "Answer": "Omnivore"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What is the name of Apple's web browser?",
+   "Answer": "Safari"
+ },
+ {
+   "Quiz": 59,
+   "Question": "In the Bible, what did God do on the seventh day of creation?",
+   "Answer": "Rest"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What is the only country in Asia that uses the Peso as its currency?",
+   "Answer": "Philippines"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What does the Roman god Mercury have on his sandals?",
+   "Answer": "Wings"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What story is parodied by the movie \"Men in Tights\"?",
+   "Answer": "Robin Hood"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What is the legal term for being tried twice for the same crime?",
+   "Answer": "Double jeopardy"
+ },
+ {
+   "Quiz": 59,
+   "Question": "How many leagues did Captain Nemo travel \"under the sea\"?",
+   "Answer": "20,000"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What kind of tree loses its leaves in the winter?",
+   "Answer": "Deciduous"
+ },
+ {
+   "Quiz": 59,
+   "Question": "In which country is the martial art of krav maga part of a soldier's basic training?",
+   "Answer": "Israel"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What does the R stand for in the MMR vaccine?",
+   "Answer": "Rubella"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What band's lead singer is the father of actress Liv Tyler?",
+   "Answer": "Aerosmith"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What fictional Swedish girl has red braids, freckles, and a pet monkey?",
+   "Answer": "Pippi Longstocking"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What is fed to a bee larva to turn it into a queen?",
+   "Answer": "Royal jelly"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What classic movie features a nightclub named Rick's Cafe?",
+   "Answer": "Casablanca"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What city is known as Kaapstad in one of its native languages?",
+   "Answer": "Cape Town"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What is Thomas A. Swift's Electric Rifle better known as?",
+   "Answer": "Taser"
+ },
+ {
+   "Quiz": 59,
+   "Question": "What expensive spice is made from the pods of orchid plants?",
+   "Answer": "Vanilla"
+ },
+ {
+   "Quiz": 60,
+   "Question": "In what party game might you hear the phrase \"right foot blue\"?",
+   "Answer": "Twister"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What are Casper and Slimer?",
+   "Answer": "Ghosts"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What inland sea in the Middle East is nearly 10 times as salty as the ocean?",
+   "Answer": "Dead Sea"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What is the lowest rank in the U.S. Army?",
+   "Answer": "Private"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What famous physicist had ALS disease?",
+   "Answer": "Stephen Hawking"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What language is Afrikaans derived from?",
+   "Answer": "Dutch"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What novel by Robert Louis Stevenson featured a pirate named Long John Silver?",
+   "Answer": "Treasure Island"
+ },
+ {
+   "Quiz": 60,
+   "Question": "If 1 is scalene and 2 is isosceles, what is 3?",
+   "Answer": "Equilateral"
+ },
+ {
+   "Quiz": 60,
+   "Question": "Sometimes called the \"Third Pole\", what place in Asia has the largest concentration of frozen water outside the polar regions?",
+   "Answer": "Tibetan Plateau"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What is a Clydesdale?",
+   "Answer": "Breed of horse"
+ },
+ {
+   "Quiz": 60,
+   "Question": "In the song \"Twelve Days of Christmas\", what are the ten lords doing?",
+   "Answer": "Leaping"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What popular toy got its name from the Danish words for \"play well\"?",
+   "Answer": "Lego"
+ },
+ {
+   "Quiz": 60,
+   "Question": "Geographically, which French city is closest to England?",
+   "Answer": "Calais"
+ },
+ {
+   "Quiz": 60,
+   "Question": "Who said \"Do or do not. There is no try\"?",
+   "Answer": "Yoda"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What American pop star married British movie director Guy Ritchie?",
+   "Answer": "Madonna"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What city did the Appian Way lead to?",
+   "Answer": "Rome"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What country's most famous monument is possibly \"Manneken Pis\", a tiny statue about 61 centimeters tall of a boy peeing into a fountain?",
+   "Answer": "Belgium"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What bouncy substance was invented by the absent-minded professor?",
+   "Answer": "Flubber"
+ },
+ {
+   "Quiz": 60,
+   "Question": "Who famously created images of endless staircases and other impossible constructions?",
+   "Answer": "M. C. Escher"
+ },
+ {
+   "Quiz": 60,
+   "Question": "What dwarf planet, named after the Greek goddess of discord, has a greater mass than Pluto?",
+   "Answer": "Eris"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What country attacked Pearl Harbor in 1941?",
+   "Answer": "Japan"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What was the name of Geppetto's puppet who came to life?",
+   "Answer": "Pinocchio"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What is the scientific name for the human species?",
+   "Answer": "Homo sapiens"
+ },
+ {
+   "Quiz": 61,
+   "Question": "Which modern-day country ended up with 99% of Yugoslavia's coastline?",
+   "Answer": "Croatia"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What is the last name of Australian actors Chris, Liam, and Luke?",
+   "Answer": "Hemsworth"
+ },
+ {
+   "Quiz": 61,
+   "Question": "In Britain they call it a rubber. What do Americans call it?",
+   "Answer": "An eraser"
+ },
+ {
+   "Quiz": 61,
+   "Question": "Which African country takes its name from the Latin for \"free\"?",
+   "Answer": "Liberia"
+ },
+ {
+   "Quiz": 61,
+   "Question": "Who had a wife named Priscilla and a daughter named Lisa Marie?",
+   "Answer": "Elvis Presley"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What is either a military rank or a type of punishment?",
+   "Answer": "Corporal"
+ },
+ {
+   "Quiz": 61,
+   "Question": "In the Bible, what was Lot's wife turned into when she looked back upon the destruction of Sodom?",
+   "Answer": "A pillar of salt"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What common clothing fiber is made by the larvae of moths?",
+   "Answer": "Silk"
+ },
+ {
+   "Quiz": 61,
+   "Question": "Who sang \"Redemption Song\" and \"Jamming\"?",
+   "Answer": "Bob Marley"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What branch of mathematics was invented separately by Isaac Newton and Gottfried Leibniz?",
+   "Answer": "Calculus"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What type of animal would you find in an apiary?",
+   "Answer": "Bee"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What, in common English, is a gendarme?",
+   "Answer": "A police officer"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What is the name of both a French dynasty and a street in New Orleans?",
+   "Answer": "Bourbon"
+ },
+ {
+   "Quiz": 61,
+   "Question": "Lox is something you might put on your bagel. What is it?",
+   "Answer": "Brined salmon"
+ },
+ {
+   "Quiz": 61,
+   "Question": "What country's first Prime Minister, Lee Kuan Yew, is often given as an example of a \"benevolent dictator\"?",
+   "Answer": "Singapore"
+ },
+ {
+   "Quiz": 61,
+   "Question": "The Romans knew it as Eboracum. The Saxons knew it as Eoforwic. Today the name of this city only has 4 letters. What is it?",
+   "Answer": "York"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What does an octopus spray when threatened?",
+   "Answer": "Ink"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What mineral are young women often deficient in which can prevent them from donating blood?",
+   "Answer": "Iron"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What mountain chain runs through the majority of Switzerland?",
+   "Answer": "Alps"
+ },
+ {
+   "Quiz": 62,
+   "Question": "Who is elected by the College of Cardinals?",
+   "Answer": "The Pope"
+ },
+ {
+   "Quiz": 62,
+   "Question": "Which sign of the Zodiac begins and ends with S?",
+   "Answer": "Sagittarius"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What did St. George slay?",
+   "Answer": "The Dragon"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What does the Spanish word cerveza mean?",
+   "Answer": "Beer"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What city is divided into 20 arrondissements?",
+   "Answer": "Paris"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What comes in French, Russian, and Thousand Island varieties?",
+   "Answer": "Salad dressing"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What are LP records made out of?",
+   "Answer": "Vinyl"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What dice game was invented by a Canadian couple who called it \"The Yacht Game\"?",
+   "Answer": "Yahtzee"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What religion believes that Xenu brought aliens to Earth 75 million years ago and killed them with atom bombs?",
+   "Answer": "Scientology"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What city did Pest merge with in 1873?",
+   "Answer": "Buda"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What city is \"my kind of town\", according to Frank Sinatra?",
+   "Answer": "Chicago"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What British Prime Minister is widely criticized for his policy of \"appeasement\"?",
+   "Answer": "Neville Chamberlain"
+ },
+ {
+   "Quiz": 62,
+   "Question": "Of what island do the Beach Boys sing, \"We'll get there fast, and then we'll take it slow\"?",
+   "Answer": "Kokomo"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What language is the song \"Hava Nagila\" written in?",
+   "Answer": "Hebrew"
+ },
+ {
+   "Quiz": 62,
+   "Question": "Who killed Grendel and his mother?",
+   "Answer": "Beowulf"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What can be reduced by the drug Lipitor?",
+   "Answer": "Cholesterol"
+ },
+ {
+   "Quiz": 62,
+   "Question": "What country did Alexis de Tocqueville famously write about?",
+   "Answer": "United States"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What is the antonym of maximum?",
+   "Answer": "Minimum"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What country's capital city is Havana?",
+   "Answer": "Cuba"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What European city is the headquarters of Prada and Versace?",
+   "Answer": "Milan"
+ },
+ {
+   "Quiz": 63,
+   "Question": "Who directed \"Pulp Fiction\" and \"Kill Bill\"?",
+   "Answer": "Quentin Tarantino"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What country is the biggest source of foreign-born residents living in Mexico?",
+   "Answer": "United States"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What stone provided the key to deciphering Egyptian hieroglyphs?",
+   "Answer": "Rosetta Stone"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What type of story was Aesop known for writing?",
+   "Answer": "Fables"
+ },
+ {
+   "Quiz": 63,
+   "Question": "In what part of the world would you find \"clans\" that wear \"tartans\"?",
+   "Answer": "Scotland"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What country was Kylie Minogue born in?",
+   "Answer": "Australia"
+ },
+ {
+   "Quiz": 63,
+   "Question": "People from Italy are called Italians. What are people from Cyprus called?",
+   "Answer": "Cypriots"
+ },
+ {
+   "Quiz": 63,
+   "Question": "In Greek mythology, what river divides Earth from the underworld?",
+   "Answer": "Styx"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What sport did Björn Borg excel at?",
+   "Answer": "Tennis"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What does the B in BASE jumping stand for?",
+   "Answer": "Building"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What \"worm\", actually a fungal infection, do wrestlers often get?",
+   "Answer": "Ringworm"
+ },
+ {
+   "Quiz": 63,
+   "Question": "In what language does spasíbo mean \"thank you\"?",
+   "Answer": "Russian"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What four letter word refers to a jail that is located aboard a ship?",
+   "Answer": "Brig"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What British model from the 1960s was \"stick thin\"?",
+   "Answer": "Twiggy"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What is the coldest city in the U.S. with a population over 200,000?",
+   "Answer": "Anchorage"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What company owns the world's largest building by volume - an assembly plant in Everett, Washington?",
+   "Answer": "Boeing"
+ },
+ {
+   "Quiz": 63,
+   "Question": "What is a jonquil?",
+   "Answer": "A type of flower"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What did Cinderella's carriage turn into after midnight?",
+   "Answer": "A pumpkin"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What type of animal was Dolly, the first mammal to be cloned?",
+   "Answer": "A sheep"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What stimulant did Coca-Cola contain before 1903?",
+   "Answer": "Cocaine"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What is the highest mountain in Japan?",
+   "Answer": "Mount Fuji"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What element is known in Latin as \"Aurum\"?",
+   "Answer": "Gold"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What Greek titan is often depicted as holding the Earth on his shoulders?",
+   "Answer": "Atlas"
+ },
+ {
+   "Quiz": 64,
+   "Question": "In what country would you find the city of Cusco, once the capital of the Incan Empire?",
+   "Answer": "Peru"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What does a V8 engine have 8 of?",
+   "Answer": "Cylinders"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What is the only country where Komodo dragons can be found in the wild?",
+   "Answer": "Indonesia"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What is the word for a corpse used for medical or scientific research?",
+   "Answer": "Cadaver"
+ },
+ {
+   "Quiz": 64,
+   "Question": "Who does the Lorax speak for?",
+   "Answer": "The trees"
+ },
+ {
+   "Quiz": 64,
+   "Question": "Many Germany city names end in \"burg\". What is the equivalent suffix in Russian city names?",
+   "Answer": "Grad"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What landmark was built for the 1962 World's Fair in Seattle?",
+   "Answer": "The Space Needle"
+ },
+ {
+   "Quiz": 64,
+   "Question": "In the 1800s, guano was such a valuable commodity that wars were fought over it. But what is guano?",
+   "Answer": "Bird excrement"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What is the name of both a Black Sabbath song and a super hero?",
+   "Answer": "Iron Man"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What is the main ingredient in borscht?",
+   "Answer": "Beetroot"
+ },
+ {
+   "Quiz": 64,
+   "Question": "Who are the best-selling disco group of all time?",
+   "Answer": "The Bee Gees"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What celebrity died in Hong Kong in 1973, although no one is sure what caused his death?",
+   "Answer": "Bruce Lee"
+ },
+ {
+   "Quiz": 64,
+   "Question": "Dungeness, King, and Spider are types of what?",
+   "Answer": "Crabs"
+ },
+ {
+   "Quiz": 64,
+   "Question": "What Irish writer's last words were supposedly \"either those curtains go or I do\"?",
+   "Answer": "Oscar Wilde"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What is the fastest type of bird on land?",
+   "Answer": "Ostrich"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Who orders martinis his \"shaken, not stirred\"?",
+   "Answer": "James Bond"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What pop group is sometimes abbreviated as \"1D\"?",
+   "Answer": "One Direction"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What automaker's logo consists of four interlocking rings?",
+   "Answer": "Audi"
+ },
+ {
+   "Quiz": 65,
+   "Question": "In what city did Princess Diana die?",
+   "Answer": "Paris"
+ },
+ {
+   "Quiz": 65,
+   "Question": "In which U.S. state did the ukulele originate?",
+   "Answer": "Hawaii"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What is either a type of fragrance or a city in Germany?",
+   "Answer": "Cologne"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What part of the body is affected by gingivitis?",
+   "Answer": "Gums"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Which U.S. President had the longest term – a little over twelve years?",
+   "Answer": "Franklin D. Roosevelt"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What type of animal killed Lindy Chamberlain's baby in the Australian outback?",
+   "Answer": "A dingo"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Which country produces the most crude oil (as of 2022)?",
+   "Answer": "United States"
+ },
+ {
+   "Quiz": 65,
+   "Question": "How many is a dozen baker's dozens?",
+   "Answer": "156"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Which country's royal family included Prince Rainier and Grace Kelly?",
+   "Answer": "Monaco"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What multi-headed creature did Hercules battle where every time one head was cut off, two more would grow in its place?",
+   "Answer": "Hydra"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What is the easternmost national capital in the Americas?",
+   "Answer": "Brasilia"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What Christian holiday falls on the Sunday before Easter?",
+   "Answer": "Palm Sunday"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Who played the young version of Vito Corleone in \"The Godfather Part II\"?",
+   "Answer": "Robert De Niro"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What is made from sulfur, charcoal, and saltpeter?",
+   "Answer": "Gunpowder"
+ },
+ {
+   "Quiz": 65,
+   "Question": "Defined as a \"rough, cindery lava\", what is the first word in the Scrabble dictionary?",
+   "Answer": "Aa"
+ },
+ {
+   "Quiz": 65,
+   "Question": "What does a numismatist collect?",
+   "Answer": "Currency"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What is the capital of South Korea?",
+   "Answer": "Seoul"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What is the world's highest mountain range?",
+   "Answer": "Himalayas"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What divides in two in a process called mitosis?",
+   "Answer": "Cells"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What five letters come before \"califragilisticexpialidocious\"?",
+   "Answer": "Super"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What is the common description of the term rhinoplasty?",
+   "Answer": "Nose job"
+ },
+ {
+   "Quiz": 66,
+   "Question": "Megalodons went extinct 2.6 million years ago. What type of animal was a Megalodon?",
+   "Answer": "Shark"
+ },
+ {
+   "Quiz": 66,
+   "Question": "Which language does the abbreviation RSVP come from?",
+   "Answer": "French (repondez s'il vous plait)"
+ },
+ {
+   "Quiz": 66,
+   "Question": "In what city did Anne Frank hide from the Nazis?",
+   "Answer": "Amsterdam"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What is at the bottom of the ocean's food chain?",
+   "Answer": "Plankton"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What breed of dog is most commonly used in dog racing?",
+   "Answer": "Greyhound"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What is known as \"The Emerald Isle\"?",
+   "Answer": "Ireland"
+ },
+ {
+   "Quiz": 66,
+   "Question": "In ancient Greek, what is a \"polis\"?",
+   "Answer": "City-state"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What was the most-used web browser in the year 2005?",
+   "Answer": "Internet Explorer"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What country does a Sinophile love?",
+   "Answer": "China"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What illness is sometimes referred to as H5N1?",
+   "Answer": "Bird Flu"
+ },
+ {
+   "Quiz": 66,
+   "Question": "Who was Abraham Van Helsing's archenemy?",
+   "Answer": "Count Dracula"
+ },
+ {
+   "Quiz": 66,
+   "Question": "Who starred as Private Ryan in the movie \"Saving Private Ryan\"?",
+   "Answer": "Matt Damon"
+ },
+ {
+   "Quiz": 66,
+   "Question": "Who had a third son named Seth?",
+   "Answer": "Adam and Eve"
+ },
+ {
+   "Quiz": 66,
+   "Question": "How many years are commemorated by a sesquicentennial?",
+   "Answer": "150"
+ },
+ {
+   "Quiz": 66,
+   "Question": "What currency can be divided into 100 million sub-units known as \"satoshis\"?",
+   "Answer": "Bitcoin"
+ },
+ {
+   "Quiz": 67,
+   "Question": "Which country has four main islands - the largest of which is Honshu?",
+   "Answer": "Japan"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What \"valley\" is home to many tech companies including Apple, Google, and Facebook?",
+   "Answer": "Silicon Valley"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What \"logy\" is the study of animals?",
+   "Answer": "Zoology"
+ },
+ {
+   "Quiz": 67,
+   "Question": "Who did Eva Braun marry on April 29, 1945?",
+   "Answer": "Adolf Hitler"
+ },
+ {
+   "Quiz": 67,
+   "Question": "Who is considered the father of psychoanalysis?",
+   "Answer": "Sigmund Freud"
+ },
+ {
+   "Quiz": 67,
+   "Question": "On a roulette wheel, which number isn't colored red or black?",
+   "Answer": "Zero"
+ },
+ {
+   "Quiz": 67,
+   "Question": "Who was the first murder victim in the Bible?",
+   "Answer": "Abel"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What is the most abundant element in the Milky Way?",
+   "Answer": "Hydrogen"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What is the most populous city in New Zealand?",
+   "Answer": "Auckland"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What does the U.S. government famously store at Fort Knox?",
+   "Answer": "Gold"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What musical instrument did Sherlock Holmes play?",
+   "Answer": "Violin"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What is the name of the tunnel that connects England and France?",
+   "Answer": "The Channel Tunnel"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What was the name of the first Indiana Jones movie?",
+   "Answer": "Raiders of the Lost Ark"
+ },
+ {
+   "Quiz": 67,
+   "Question": "Which U.S. state capital ends in x?",
+   "Answer": "Phoenix"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What rock musician is known as \"The Boss”?",
+   "Answer": "Bruce Springsteen"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What sport was featured in the movie \"Invictus\", starring Matt Damon and Morgan Freeman?",
+   "Answer": "Rugby Union"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What newspaper does Clark Kent work for?",
+   "Answer": "The Daily Planet"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What is both a breed of cattle and a stereotypical Scottish first name?",
+   "Answer": "Angus"
+ },
+ {
+   "Quiz": 67,
+   "Question": "The Trans-Siberian railway, the longest railway line in the world, connects Moscow with which other Russian city?",
+   "Answer": "Vladivostok"
+ },
+ {
+   "Quiz": 67,
+   "Question": "What Australian \"dame\" is actually a man?",
+   "Answer": "Dame Edna"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What measurement is half the diameter of a circle?",
+   "Answer": "Radius"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What is a female deer called?",
+   "Answer": "a Doe"
+ },
+ {
+   "Quiz": 68,
+   "Question": "Which chess piece is usually represented by a horse's head and neck?",
+   "Answer": "Knight"
+ },
+ {
+   "Quiz": 68,
+   "Question": "In addition to New York, London and Paris, what city is considered a \"fashion capital\"?",
+   "Answer": "Milan"
+ },
+ {
+   "Quiz": 68,
+   "Question": "Who ate porridge that was too hot, too cold, and just right?",
+   "Answer": "Goldilocks"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What ingredient gives pesto its green color?",
+   "Answer": "Basil"
+ },
+ {
+   "Quiz": 68,
+   "Question": "Who was the voice of Woody in \"Toy Story\"?",
+   "Answer": "Tom Hanks"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What event was the song \"Waka Waka\" written for?",
+   "Answer": "2010 FIFA World Cup"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What is Hinduism's holiest river?",
+   "Answer": "Ganges"
+ },
+ {
+   "Quiz": 68,
+   "Question": "Who is Austin Power's nemesis?",
+   "Answer": "Dr. Evil"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What port city was connected to Manchester by the world's first inter-city railway?",
+   "Answer": "Liverpool"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What country was formerly called the Dutch East Indies?",
+   "Answer": "Indonesia"
+ },
+ {
+   "Quiz": 68,
+   "Question": "Who invented the lightning rod?",
+   "Answer": "Benjamin Franklin"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What is the world's southernmost national capital?",
+   "Answer": "Wellington"
+ },
+ {
+   "Quiz": 68,
+   "Question": "In what modern-day country did the Battle of Gallipoli take place?",
+   "Answer": "Turkey"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What beverage did the British Navy stop giving out with rations in 1970?",
+   "Answer": "Rum"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What singer was called \"The Chairman of the Board\" and \"Ol' Blue Eyes\"?",
+   "Answer": "Frank Sinatra"
+ },
+ {
+   "Quiz": 68,
+   "Question": "What are Hatha, Bikram, and Iyengar?",
+   "Answer": "Types of Yoga"
+ },
+ {
+   "Quiz": 68,
+   "Question": "In what country would you find the cities of Espoo, Tampere, and Vantaa?",
+   "Answer": "Finland"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Who slew Goliath?",
+   "Answer": "David"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What popular spread's ingredients include hazelnuts, milk, and a hint of cocoa?",
+   "Answer": "Nutella"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What were Calico Jack and Blackbeard?",
+   "Answer": "Pirates"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Which boxing weight class starts with W?",
+   "Answer": "Welterweight"
+ },
+ {
+   "Quiz": 69,
+   "Question": "In what country would you find the city of Bruges?",
+   "Answer": "Belgium"
+ },
+ {
+   "Quiz": 69,
+   "Question": "To avoid bad luck, what should one throw over their left shoulder?",
+   "Answer": "Salt"
+ },
+ {
+   "Quiz": 69,
+   "Question": "According to cliché, what is the best policy?",
+   "Answer": "Honesty"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Who discovered the element Radium?",
+   "Answer": "Marie and Pierre Curie"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Which organization banned its former leader Sepp Blatter in 2015?",
+   "Answer": "FIFA"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Where would you find the \"Great Red Spot\"?",
+   "Answer": "Jupiter"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Who is missing from this famous fivesome: Baby, Ginger, Scary, Sporty, and ____?",
+   "Answer": "Posh"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What does a bandolier hold?",
+   "Answer": "Ammunition"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What famous character was created by Bram Stoker?",
+   "Answer": "Count Dracula"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Who was nicknamed \"The Maid of Orléans\"?",
+   "Answer": "Joan of Arc"
+ },
+ {
+   "Quiz": 69,
+   "Question": "\"A man a plan a canal Panama\" is a famous example of what?",
+   "Answer": "Palindrome"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What country of 36,000 square kilometers claims the legal ownership of an area more than 250 times that size?",
+   "Answer": "Taiwan"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What Disney movie features the song \"When You Wish Upon a Star\"?",
+   "Answer": "Pinocchio"
+ },
+ {
+   "Quiz": 69,
+   "Question": "Which European country didn't join the United Nations until 2002?",
+   "Answer": "Switzerland"
+ },
+ {
+   "Quiz": 69,
+   "Question": "In Edgar Allan Poe's \"The Raven\", what word does the raven say?",
+   "Answer": "Nevermore"
+ },
+ {
+   "Quiz": 69,
+   "Question": "What does an oenophile love?",
+   "Answer": "Wine"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What mythological figure inspires romantic love with his bow and arrow?",
+   "Answer": "Cupid"
+ },
+ {
+   "Quiz": 70,
+   "Question": "In what part of the Atlantic Ocean are ships and aircraft said to have mysteriously disappeared?",
+   "Answer": "Bermuda Triangle"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What company's logo is described as a \"swoosh\"?",
+   "Answer": "Nike"
+ },
+ {
+   "Quiz": 70,
+   "Question": "Who was the first female prime minister of the United Kingdom?",
+   "Answer": "Margaret Thatcher"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What city is known as the \"Birthplace of Democracy\"?",
+   "Answer": "Athens"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What is the slowest of the four Olympic swimming strokes?",
+   "Answer": "Breaststroke"
+ },
+ {
+   "Quiz": 70,
+   "Question": "Who is the villain in \"Avengers: Infinity War\"?",
+   "Answer": "Thanos"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What is the name of the fictional doctor who talks to animals?",
+   "Answer": "Dr. Dolittle"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What angle lies between acute and obtuse angles?",
+   "Answer": "Right angle"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What is either a racket sport or a vegetable?",
+   "Answer": "Squash"
+ },
+ {
+   "Quiz": 70,
+   "Question": "Which Dr. Seuss character hears a Who?",
+   "Answer": "Horton"
+ },
+ {
+   "Quiz": 70,
+   "Question": "Which saint is London's largest cathedral named for?",
+   "Answer": "St. Paul"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What actor based his character in \"Magic Mike\" off of his own experience as a stripper?",
+   "Answer": "Channing Tatum"
+ },
+ {
+   "Quiz": 70,
+   "Question": "Who is often considered to be the archetype of a Renaissance Man?",
+   "Answer": "Leonardo Da Vinci"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What country is the island of Zanzibar a part of?",
+   "Answer": "Tanzania"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What animal's milk is mozzarella cheese traditionally made from?",
+   "Answer": "Water buffalo"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What Christmas character said \"God bless us, every one!\"",
+   "Answer": "Tiny Tim"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What is another name for an abattoir?",
+   "Answer": "Slaughterhouse"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What singer died in 2012 whose last name is also the name of a major American city?",
+   "Answer": "Whitney Houston"
+ },
+ {
+   "Quiz": 70,
+   "Question": "What African dictator was portrayed by Forest Whitaker in \"The Last King of Scotland\"?",
+   "Answer": "Idi Amin"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What was the language of the Roman Empire?",
+   "Answer": "Latin"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What disease killed approximately 40% of Europe's population between 1346–1353?",
+   "Answer": "Black Death"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What part of the body is referred to by the prefix \"gastro\"?",
+   "Answer": "Stomach"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What was the unflattering nickname of Queen Mary I of England?",
+   "Answer": "Bloody Mary"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Who killed Abel?",
+   "Answer": "Cain"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What musical starred John Travolta and Olivia Newton-John?",
+   "Answer": "Grease"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What is the largest type of venomous snake?",
+   "Answer": "King cobra"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Who says \"Bah, humbug\"?",
+   "Answer": "Ebenezer Scrooge"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Who was Jennifer Aniston's first husband?",
+   "Answer": "Brad Pitt"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What country is Andalusia a part of?",
+   "Answer": "Spain"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Besides champagne, what's in a mimosa?",
+   "Answer": "Orange Juice"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Harlem is a neighborhood of New York City. In what country would you find the city of Haarlem after which it is named?",
+   "Answer": "Netherlands"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What name is missing from this group: Jackie, Tito, Jermaine, and Marlon?",
+   "Answer": "Michael"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What is known as \"The Scottish Play\"?",
+   "Answer": "Macbeth"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What Irish airline made headlines in 2010 when it proposed charging passengers to use the bathroom?",
+   "Answer": "Ryanair"
+ },
+ {
+   "Quiz": 71,
+   "Question": "In the equation E = mc² what does c represent?",
+   "Answer": "Speed of light"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What was the nickname of Manfred von Richthofen, the top fighter ace in World War One?",
+   "Answer": "The Red Baron"
+ },
+ {
+   "Quiz": 71,
+   "Question": "Who was the commander of the Confederate Army of Northern Virginia?",
+   "Answer": "Robert E. Lee"
+ },
+ {
+   "Quiz": 71,
+   "Question": "What band performed \"Sympathy for the Devil\"?",
+   "Answer": "The Rolling Stones"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What band is led by singer Axl Rose?",
+   "Answer": "Guns N' Roses"
+ },
+ {
+   "Quiz": 72,
+   "Question": "Who is the youngest daughter of Marge and Homer?",
+   "Answer": "Maggie"
+ },
+ {
+   "Quiz": 72,
+   "Question": "In what country does the Dalai Lama currently reside?",
+   "Answer": "India"
+ },
+ {
+   "Quiz": 72,
+   "Question": "Who is Frodo's famous uncle?",
+   "Answer": "Bilbo"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What disease is prevented by a vaccine invented by Jonas Salk in 1952?",
+   "Answer": "Polio"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What Italian author envisioned 9 circles of hell?",
+   "Answer": "Dante"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What was the name of the Hunchback of Notre Dame?",
+   "Answer": "Quasimodo"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What does an entomologist study?",
+   "Answer": "Insects"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What chain's first location was opened in Seattle's Pike Place Market in 1971?",
+   "Answer": "Starbucks"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What sea lies between Italy and Croatia?",
+   "Answer": "Adriatic Sea"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What is the English translation of the Yiddish word \"nosh\"?",
+   "Answer": "Snack"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What city did Rembrandt live in during most of his adult life?",
+   "Answer": "Amsterdam"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What gathers no moss?",
+   "Answer": "a Rolling Stone"
+ },
+ {
+   "Quiz": 72,
+   "Question": "According to Biblical legend, what landed on Mt. Ararat?",
+   "Answer": "Noah's Ark"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What was the Artful Dodger's profession in the book \"Oliver Twist\"?",
+   "Answer": "Pickpocket"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What is the tallest building in England?",
+   "Answer": "The Shard"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What musical family had seven children named Liesl, Friedrich, Louisa, Kurt, Brigitta, Marta, and Gretl?",
+   "Answer": "Von Trapp"
+ },
+ {
+   "Quiz": 72,
+   "Question": "What unit is defined as exactly 149,597,870,700 meters - the approximate distance between the Earth and the Sun?",
+   "Answer": "Astronomical Unit"
+ },
+ {
+   "Quiz": 72,
+   "Question": "If something is soporific, what would it make you want to do?",
+   "Answer": "Sleep"
+ },
+ {
+   "Quiz": 72,
+   "Question": "Who gets stoned during Hajj?",
+   "Answer": "The Devil"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Off what country's shores would you find the Great Barrier Reef?",
+   "Answer": "Australia"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What country is famous for its fjords?",
+   "Answer": "Norway"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What does Santa leave in the stockings of naughty children?",
+   "Answer": "Coal"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What is the official London residence of the British monarch?",
+   "Answer": "Buckingham Palace"
+ },
+ {
+   "Quiz": 73,
+   "Question": "According to Greek legend, who opened the box that contained all the world's troubles?",
+   "Answer": "Pandora"
+ },
+ {
+   "Quiz": 73,
+   "Question": "In the equation 9/5 C + 32 = F, what does C stand for?",
+   "Answer": "Celsius"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Who started the Protestant Reformation?",
+   "Answer": "Martin Luther"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What is missing from this group of four: Indiana, Iowa, Illinois?",
+   "Answer": "Idaho"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What movie did the song \"A Whole New World\" come from?",
+   "Answer": "Aladdin"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Who appeared in cameos in over two dozen comic book movies?",
+   "Answer": "Stan Lee"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What country is Saxony a part of?",
+   "Answer": "Germany"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What weapon does Michelangelo the Ninja Turtle use?",
+   "Answer": "Nunchucks"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Among scuba divers, what is decompression sickness commonly known as?",
+   "Answer": "The Bends"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What did Steve Fossett use to travel around the world in 2002?",
+   "Answer": "Balloon"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What singer's six children are named Lourdes, Rocco, David, Mercy, Estere, and Stelle?",
+   "Answer": "Madonna"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Josip Broz Tito is sometimes called a benevolent dictator. What country did he rule?",
+   "Answer": "Yugoslavia"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What was the name of the generation that came of age during WWI, including Ernest Hemingway and F. Scott Fitzgerald?",
+   "Answer": "The Lost Generation"
+ },
+ {
+   "Quiz": 73,
+   "Question": "Starting in Hong Kong and digging directly through the center of the Earth, in what country would you emerge?",
+   "Answer": "Argentina"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What fluttering objects do vexillologists study?",
+   "Answer": "Flags"
+ },
+ {
+   "Quiz": 73,
+   "Question": "What word is the most common synonym of the word \"corsair\"?",
+   "Answer": "Pirate"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What ended at 11am on November 11, 1918?",
+   "Answer": "World War I"
+ },
+ {
+   "Quiz": 74,
+   "Question": "Who betrayed Jesus for 30 pieces of silver?",
+   "Answer": "Judas Iscariot"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What is known as the \"Lone Star State\"?",
+   "Answer": "Texas"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What American actress died on August 5, 1962, at age 36?",
+   "Answer": "Marilyn Monroe"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What plant is commonly used for soothing a burn?",
+   "Answer": "Aloe Vera"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What is Robin of Locksley better known as?",
+   "Answer": "Robin Hood"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What titillating book trilogy features a character named Christian Grey?",
+   "Answer": "Fifty Shades of Grey"
+ },
+ {
+   "Quiz": 74,
+   "Question": "In what city did the world's first pizzeria open in 1738?",
+   "Answer": "Naples"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What show features the TARDIS?",
+   "Answer": "Doctor Who"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What country dominated the East Indies spice trade in the 17th and 18th centuries?",
+   "Answer": "Netherlands"
+ },
+ {
+   "Quiz": 74,
+   "Question": "In electrical terms, what does AC stand for?",
+   "Answer": "Alternating Current"
+ },
+ {
+   "Quiz": 74,
+   "Question": "In what year did the United States celebrate its bicentennial?",
+   "Answer": "1976"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What 1980s movie takes place at Shermer High School's detention?",
+   "Answer": "The Breakfast Club"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What is a Fender Stratocaster?",
+   "Answer": "an Electric Guitar"
+ },
+ {
+   "Quiz": 74,
+   "Question": "Who are Athos, Porthos, and Aramis?",
+   "Answer": "The Three Musketeers"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What type of berries are used to flavor gin?",
+   "Answer": "Juniper Berries"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What bird, the largest by wingspan in North America, was on the brink of extinction in the 1980s?",
+   "Answer": "California Condor"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What comic book villain was also known as Oswald Cobblepot?",
+   "Answer": "The Penguin"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What composer's \"Ring Cycle\" is comprised of four operas with a total length of 17 hours?",
+   "Answer": "Richard Wagner"
+ },
+ {
+   "Quiz": 74,
+   "Question": "What famous poet and libertine died of fever while fighting for Greek independence in 1824?",
+   "Answer": "Lord Byron"
+ },
+ {
+   "Quiz": 75,
+   "Question": "Who is Tarzan's girlfriend?",
+   "Answer": "Jane"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What is \"flu\" short for?",
+   "Answer": "Influenza"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What company makes fragrance No. 5?",
+   "Answer": "Chanel"
+ },
+ {
+   "Quiz": 75,
+   "Question": "The capital of I is ND. What does I stand for?",
+   "Answer": "India"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What trilogy can be described as a quest to return unwanted jewelry?",
+   "Answer": "The Lord of the Rings"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What Disney film features a red-haired princess named Merida?",
+   "Answer": "Brave"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What city is home to the Van Gogh Museum - the world's largest collection of Vincent Van Gogh artwork?",
+   "Answer": "Amsterdam"
+ },
+ {
+   "Quiz": 75,
+   "Question": "In what sport might you see a \"triple axel\"?",
+   "Answer": "Figure skating"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What company's revenue is equal to 17% of the GDP of its home country, South Korea?",
+   "Answer": "Samsung"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What country produces the most olive oil?",
+   "Answer": "Spain"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What space telescope has been in orbit since 1990?",
+   "Answer": "Hubble Space Telescope"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What city-state defeated Athens in the Peloponnesian War?",
+   "Answer": "Sparta"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What is a teeter-totter more commonly called?",
+   "Answer": "Seesaw"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What major African city has a name that means \"lakes\" in Portuguese?",
+   "Answer": "Lagos"
+ },
+ {
+   "Quiz": 75,
+   "Question": "In English, Wednesday is named for the Norse god Odin. But, in French, that day is named Mercredi. Who is Mercredi named for?",
+   "Answer": "Mercury"
+ },
+ {
+   "Quiz": 75,
+   "Question": "Who composed \"The Marriage of Figaro\"?",
+   "Answer": "Wolfgang Amadeus Mozart"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What musician was known as \"The Man in Black\"?",
+   "Answer": "Johnny Cash"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What is a common synonym for the word \"smörgåsbord\"?",
+   "Answer": "Buffet"
+ },
+ {
+   "Quiz": 75,
+   "Question": "On what holiday would one have a Seder?",
+   "Answer": "Passover"
+ },
+ {
+   "Quiz": 75,
+   "Question": "What poet wrote \"Leaves of Grass\"?",
+   "Answer": "Walt Whitman"
  }
 ]
