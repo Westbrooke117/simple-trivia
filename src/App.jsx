@@ -35,21 +35,23 @@ function App() {
       <Grid h="100vh" templateRows="1fr auto 1fr">
           <GridItem display="flex" alignItems="flex-end" justifyContent="center">
               <Box
+                  ml={5}
+                  mr={5}
                   maxW={400}
                   border={"1px solid gray"}
                   borderRadius={"sm"}
               >
                   <VStack gap={2} alignItems={'flex-start'}>
                       <Box borderTopLeftRadius={'sm'} borderTopRightRadius={'sm'} p={3} backgroundColor={'gray.200'}>
-                          <Text fontWeight={'semibold'}>{triviaData[questionIndex].Question}</Text>
+                          <Text fontSize={'lg'} fontWeight={'semibold'}>{triviaData[questionIndex].Question}</Text>
                       </Box>
-                      <Text pl={3} pr={3} pb={3}>{triviaData[questionIndex].Answer}</Text>
+                      <Text fontSize={'lg'} pl={3} pr={3} pb={3}>{triviaData[questionIndex].Answer}</Text>
                   </VStack>
               </Box>
           </GridItem>
           <GridItem mb={-100} display="flex" justifyContent="center" py={5}>
               <HStack>
-                  <Button mb={10} variant={'surface'} onClick={() => fetchQuestion()}>Next Question</Button>
+                  <Button fontSize={'md'} mb={10} variant={'surface'} onClick={() => fetchQuestion()}>Next Question</Button>
               </HStack>
           </GridItem>
           <GridItem/>
