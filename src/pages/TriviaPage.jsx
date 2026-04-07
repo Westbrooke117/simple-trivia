@@ -2,17 +2,40 @@ import {useEffect, useRef, useState} from 'react'
 import '../App.css'
 import triviaData from '../data/trivia.json' with { type: 'json' };
 import {Box, Button, Grid, GridItem, HStack, VStack, Text} from "@chakra-ui/react";
+import {useParams} from "react-router";
+
+const categoryMap = {
+    'all' : 'all',
+    'general-knowledge': 'General Knowledge',
+    'science' : 'Science',
+    'geography' : 'Geography',
+    'history' : 'History',
+}
+
+const colorMap = {
+    'all' : '#e5e3d9',
+    'General Knowledge' : '#edd9d9',
+    'Science' : '#ddeaee',
+    'Geography' : '#ddeee5',
+    'History' : '#EEEEDD'
+}
 
 const TriviaPage = () => {
     const [questionIndex, setQuestionIndex] = useState(null);
 
-    const unseenQuestionIndexes = useRef(triviaData.map((_, index) => index));
+    let { category } = useParams()
+    category = categoryMap[category]
+
+    const validTriviaIndexes = category === 'all' ? triviaData : triviaData.filter(trivia => trivia.Category === category)
+    console.log(validTriviaIndexes)
+
+    const unseenQuestionIndexes = useRef(validTriviaIndexes.map((_, index) => index));
     const seenQuestionIndexes = useRef([]);
 
     const fetchQuestion = () => {
         if (unseenQuestionIndexes.current.length === 0) {
             console.log("All questions have been seen.");
-            unseenQuestionIndexes.current = triviaData.map((_, index) => index);
+            unseenQuestionIndexes.current = validTriviaIndexes.map((_, index) => index);
             seenQuestionIndexes.current = [];
         }
 
@@ -27,8 +50,13 @@ const TriviaPage = () => {
     };
 
     useEffect(() => {
+        unseenQuestionIndexes.current = validTriviaIndexes.map((_, index) => index);
+        seenQuestionIndexes.current = [];
+
         fetchQuestion();
-    },[])
+    }, [category]);
+
+    const currentQuestion = validTriviaIndexes[questionIndex];
 
     return (
         questionIndex &&
@@ -41,17 +69,17 @@ const TriviaPage = () => {
                     border={"1px solid lightgray"}
                     borderRadius={"sm"}
                 >
-                    <VStack gap={2} alignItems={'flex-start'}>
-                        <Box borderTopLeftRadius={'sm'} borderTopRightRadius={'sm'} p={3} backgroundColor={'#e5e3d9'}>
-                            <Text fontSize={'xl'} fontWeight={'bold'}>{triviaData[questionIndex].Question}</Text>
+                    <VStack gap={2} alignItems={'flex-start'} backgroundColor={'#f4f3ef'} borderRadius={'sm'}>
+                        <Box borderTopLeftRadius={'sm'} borderTopRightRadius={'sm'} p={3} backgroundColor={colorMap[category]}>
+                            <Text fontSize={'xl'} fontWeight={'bold'}>{currentQuestion?.Question}</Text>
                         </Box>
-                        <Text fontSize={'xl'} pl={3} pt={1} pr={3} pb={3}>{triviaData[questionIndex].Answer}</Text>
+                        <Text fontSize={'xl'} pl={3} pt={1} pr={3} pb={3}>{currentQuestion?.Answer}</Text>
                     </VStack>
                 </Box>
             </GridItem>
             <GridItem mb={-100} display="flex" justifyContent="center" py={5}>
                 <HStack>
-                    <Button w={52} _hover={{backgroundColor: 'eae8e0'}} fontSize={'lg'} p={5} backgroundColor={'#e5e3d9'} mb={10} variant={'surface'} onClick={() => fetchQuestion()}>Next Question</Button>
+                    <Button border={'1px solid lightgray'} color={'black'} w={52} _hover={{backgroundColor: 'eae8e0'}} fontSize={'lg'} p={5} backgroundColor={'#e5e3d9'} mb={10} onClick={() => fetchQuestion()}>Next Question</Button>
                 </HStack>
             </GridItem>
             <GridItem/>

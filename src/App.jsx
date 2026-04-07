@@ -10,7 +10,7 @@ const router = createBrowserRouter([
         element: <HomePage/>,
     },
     {
-        path: "/trivia",
+        path: "/trivia/:category",
         element: <TriviaPage/>,
     }
 ]);

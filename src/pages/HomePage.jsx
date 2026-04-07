@@ -1,28 +1,20 @@
-import {Box, Container, Flex, Heading, HStack, Text} from "@chakra-ui/react";
-import {useNavigate} from "react-router";
+import {Container, Heading, Text, VStack} from "@chakra-ui/react";
+import {TriviaCategoryButton} from "../components/TriviaCategoryButton.jsx";
+import triviaData from '../data/trivia.json' with { type: 'json' };
 
 const HomePage = () => {
-    const navigate = useNavigate();
-
     return (
         <Container maxW={'xl'}>
-            <Heading size={'3xl'} pt={10} textAlign={'center'}>Simple Trivia</Heading>
-            <HStack pt={10}>
-                <Box
-                    backgroundColor={'#e5e3d9'}
-                    h={50}
-                    w={'100%'}
-                    borderRadius={'sm'}
-                    border={'1px solid lightgray'}
-                    fontWeight={'semibold'}
-                    onClick={() => navigate('/trivia')}
-                    _hover={{cursor: 'pointer', backgroundColor: '#eae8e0'}}
-                >
-                    <Flex h={'100%'} justifyContent={'center'} alignItems={'center'}>
-                        <Text fontSize={'lg'}>All Trivia</Text>
-                    </Flex>
-                </Box>
-            </HStack>
+            <Heading size={'4xl'} pt={10} textAlign={'center'}>Simple Trivia</Heading>
+            <Text textAlign={'center'}>{triviaData.length.toLocaleString()} trivia questions and counting...</Text>
+            <VStack pt={10}>
+                <TriviaCategoryButton category={"Play All Trivia"} path={'all'}/>
+                <Heading fontSize={'2xl'} mb={1} mt={5}>Categories</Heading>
+                <TriviaCategoryButton color={'#edd9d9'} category={"General Knowledge"} path={'general-knowledge'}/>
+                <TriviaCategoryButton color={'#ddeaee'} category={"Science"} path={'science'}/>
+                <TriviaCategoryButton color={'#ddeee5'} category={"Geography"} path={'geography'}/>
+                <TriviaCategoryButton color={'#EEEEDD'} category={"History"} path={'history'}/>
+            </VStack>
         </Container>
     )
 }
