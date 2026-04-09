@@ -10,6 +10,8 @@ const categoryMap = {
     'science' : 'Science',
     'geography' : 'Geography',
     'history' : 'History',
+    'sport' : 'Sport',
+    'movies-and-tv' : 'Movies & TV'
 }
 
 const colorMap = {
@@ -17,7 +19,9 @@ const colorMap = {
     'General Knowledge' : '#edd9d9',
     'Science' : '#ddeaee',
     'Geography' : '#ddeee5',
-    'History' : '#EEEEDD'
+    'History' : '#EEEEDD',
+    'Sport' : '#DDDDEE',
+    'Movies & TV' : '#EEE8DD'
 }
 
 const TriviaPage = () => {
@@ -59,7 +63,7 @@ const TriviaPage = () => {
     const currentQuestion = validTriviaIndexes[questionIndex];
 
     return (
-        questionIndex &&
+        questionIndex !== null &&
         <Grid h="100vh" templateRows="1fr auto 1fr">
             <GridItem display="flex" alignItems="flex-end" justifyContent="center">
                 <Box
@@ -70,7 +74,7 @@ const TriviaPage = () => {
                     borderRadius={"sm"}
                 >
                     <VStack gap={2} alignItems={'flex-start'} backgroundColor={'#f4f3ef'} borderRadius={'sm'}>
-                        <Box borderTopLeftRadius={'sm'} borderTopRightRadius={'sm'} p={3} backgroundColor={colorMap[category]}>
+                        <Box borderTopLeftRadius={'sm'} borderTopRightRadius={'sm'} p={3} backgroundColor={colorMap[category]} w={'100%'}>
                             <Text fontSize={'xl'} fontWeight={'bold'}>{currentQuestion?.Question}</Text>
                         </Box>
                         <Text fontSize={'xl'} pl={3} pt={1} pr={3} pb={3}>{currentQuestion?.Answer}</Text>

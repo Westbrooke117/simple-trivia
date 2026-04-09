@@ -14,6 +14,8 @@ const HomePage = () => {
                 <TriviaCategoryButton color={'#ddeaee'} category={"Science"} path={'science'}/>
                 <TriviaCategoryButton color={'#ddeee5'} category={"Geography"} path={'geography'}/>
                 <TriviaCategoryButton color={'#EEEEDD'} category={"History"} path={'history'}/>
+                <TriviaCategoryButton color={'#DDDDEE'} category={"Sport"} path={'sport'}/>
+                <TriviaCategoryButton color={'#EEE8DD'} category={"Movies & TV"} path={'movies-and-tv'}/>
             </VStack>
         </Container>
     )
